@@ -3,7 +3,7 @@
 |-------------------|-------------------|-----------------------|--------------------------------|
 Global Voices News	|	1391	    |	      1388	    |                           |
 Out of His Mind Book	|	1006	    | 	      1008	    |                           |
-Ted Talks		|	 438	    |	       200	    |                           |
+Ted Talks		|	 438	    |	       2000	    |                           |
 ICT/digital sentences   |	 312	    |	       273	    |                           |
 Yoruba Proverbs		|	 250	    |	       250	    |                           |
 VON News                |		    |         1714	    |                           |
