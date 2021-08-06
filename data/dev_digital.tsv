@@ -1,0 +1,313 @@
+english	yoruba
+Ad hoc learners group	Ojúlówó ẹgbẹ́ akẹ́kọ̀ọ́
+Language is not supported by Kolibri	Kò sí èdè yìí lorí Kolibri
+There was a disk access error.	Àṣìṣe ìráàyèsì dísíkì wáyé.
+Sorry, your browser version is not supported.	Má bínú, ìlujá ìwádìí tí ò ń lò kò lè ṣiṣẹ́.
+To use Kolibri, we recommend using Firefox or Chrome.	Láti lo Kolibri, a dàbá pé kí o lo Firefox tàbí Chrome.
+You can also try updating your current browser.	O tún lè gbìyànjú láti lo ìlujá ìwádìí tuntun.
+OpenID Provider Authorization	Gba àṣẹ lọ́wọ́ aṣèdá OpenID
+Your password has been changed.	Ọ̀rọ̀ aṣínà rẹ ti yí padà.
+Edit profile	Ṣàtúnṣe Ìrísí òǹṣàmúlò
+Profile details updated	Ṣàtúntò ẹ̀kúnrẹ́rẹ́ ìrísí òǹṣàmúlò
+User Profile	Ìrísí aṣàmúlò
+Limited permissions	Àwọn ìgbàláàyè tí ó mọ ní iba
+Manage device permissions	Ṣàkóso àwọn ìgbàláàyè ohun èlò
+It will be visible to administrators.	Àwọn alákòóso láǹfààní láti lò o.
+It will also be used to help improve the software and resources for different learner types and needs.	Yóò sì tún lò o láti fi sàtúnse àwọn iṣẹ́-àìrídìmúù àti ohun àmúlò awon onírúurú akẹ́ẹ̀kọ́ àti òun tí wọ́n fẹ́
+Providing this information is optional.	Fífi ìwífún yìí sílẹ̀ kò pọn dandan
+You were automatically signed out due to inactivity	A mú ọ jáde láìròtẹ́lẹ̀ nítorí o kò ṣe iṣẹ́ kankan
+Allow anyone to create their own learner account?	Fi ààyè gba ẹnikẹ́ni láti ṣẹ̀dá ìṣàmúlò akẹ́kọ̀ọ́ tiwọn?
+No. Admins must create all accounts	Rárá. Àwọn alákòóso gbọdọ̀ ṣẹ̀dá gbogbo ìṣàmúlò
+Schools and other formal learning contexts	Àwọn ilé-ẹ̀kọ́ àti ohun tí ó jẹ mọ́ ìkẹ́kọ̀ọ́ mìíràn
+Libraries, orphanages, correctional facilities, youth centers, computer labs, and other non-formal learning contexts	Àwọn ilé ìyáwèékàwé, ilé àwọn ọmọ aláìlóbìí, ilé ìyínipadàsírere, ibi ìpéjọ àwọn ọ̀dọ́, yàrá ẹ̀kọ́ ẹ̀rọ-ayárabíàṣá, àti àwọn ohun ìṣètò ìkẹ́kọ̀ọ́ tí kò bá ìlànà iléèwé mu mìíràn
+Setting up your facility...	Ṣíṣáàtò ohun èlò rẹ...
+Enrolled users will be removed from the class but remain accessible from the 'Users' tab.	Àwọn olùṣàmúlò tí ó ti forúkọsílẹ̀ ni a ó yọ kúrò nínú yàrá ìkẹ́kọ̀ọ́ ṣùgbọ́n wọ́n á ṣì ráàyèsí i ní pátákó 'Olùṣàmúlò'.
+Assign coaches	Yan àwọn akọ́ni
+Showing coaches that are not assigned to this class	Ń ṣàfihàn àwọn akọ́ni tí a kò yàn sí yàrá ìkẹ́kọ̀ọ́ yìí
+There was a problem loading your settings	Ìṣoro wáyẹ́ ní àkókò ìkórajọ àwọn ààtò rẹ
+There was a problem saving your settings	Ìṣoro wáyé ní ìgbà ìṣafipamọ́ àwọn ààtò rẹ
+Facility settings updated	Àfikún ti bá àwọn ohun èlò
+Are you sure you want to reset your settings?	Ṣé ó dá ọ lójú pé o fẹ́ ṣe àtúnṣe sí ààtò ìṣiṣẹ́ rẹ?
+Any custom changes will be lost.	Wà á pàdánù àwọn àyípadà tí o ti ṣe.
+When a user views a resource, we record how long they spend and the progress they make.	Bí aṣàmúlò kan bá wo ohun àmúlò kan, à ń ṣe àkọsílẹ̀ wákàtí tí ó fi lò ó àti ìtẹ̀síwájú bí wọ́n ti ṣe.
+Each row in this file records a single visit a user made to a specific resource.	Ọ̀kọ̀ọ̀kan ìlà nínú iṣẹ́ yìí ni ó ń ṣe àkọsílẹ̀ ìlò gbogbo tí òǹṣàmúlò lo ohun àmúlò kan pàtó.
+This includes anonymous usage, when no user is signed in.	Èyí kan gbogbo awon òǹṣàmúlò tí abẹ́rẹ́ wọn kò ní okùn nídìí, tí kò fi orúkọ sílẹ̀ wọlé.
+Generate log file	Gba àkọsílẹ̀ iṣẹ́ jáde
+Generate a new log file	Gba àkọsílẹ̀ iṣẹ́ tuntun
+Total time/progress for each resource	Àpàpọ̀ àkókò/ìtẹ̀síwájú fún ọ̀kọ̀ọ̀kan àwọn ohun àmúlò
+By syncing this facility with the Kolibri Data Portal, you are granting access to your data to organization admins on Kolibri Data Portal.	Bí o bá ṣe àmúṣiṣẹ́pọ̀ ohun èlò yìí pẹ̀lú Ibi Ìpamọ́ Ìwífún-alálàyé Kolibri, ò ń fún àwọn alábòójútó iléeṣẹ́ tí ó wà lórí Ibi Ìpamọ́ Ìwífún-alálàyé Kolibri láti rí àyè sí ìwífún-alálàyé rẹ.
+It will be uploaded to cloud servers operated by Learning Equality, who will also have access to this data.	Yóò jẹ́ gbígbé sí inú apèsè orí sánmà ti Learning Equality, tí yóò ní àǹfààní láti lo ìwífún-alálàyé yìí.
+Kolibri Data Portal	Ibi ìpamọ́ ìwífún-alálàyé ti Kolibri
+Enter a project token from Kolibri Data Portal	Tẹ àmì iṣẹ́ àkànṣe láti orí Ibi Ìpamọ́ Ìwífún-alálàyé Kolibri sílẹ̀
+This is an experimental feature.	Eléyìí jẹ́ àbùdá ajẹmọ́dànánwò.
+You can use it if you have access to the Kolibri Data Portal.	O lè lò ó bí o bá rí àyè sí Ibi Ìpamọ́ Ìwífún-alálàyé Kolibri.
+Registered to `Kolibri Data Portal`	Forúkọsílẹ̀ sórí 'Ibi Ìpamọ́ Ìwífún-alálàyé ti Kolibri'
+About providing an identifier or ID number	Nípa pípésè àmì ìdánimọ̀ tàbí òǹkà ìdánimọ̀
+Examples: a student ID number or an existing user identification number.	Àwon àpẹẹrẹ: òǹkà ìdánimọ̀ akẹ́kọ̀ọ́ kan tàbí òǹkà ìdánimọ̀ òǹṣàmúlò tí ó wà tẹ́lẹ̀.
+Avoid using highly sensitive personal information because it might put your users at risk.	Yàgò fún lílo àwọn ìwífún ara ẹni tí ó lè kóni síta nítorí ó lè kó àwọn òǹṣàmúlò rẹ sínú ewu.
+Examples: a student ID number or an existing user identification number.	Àwon àpẹẹrẹ: òǹkà ìdánimọ̀ akẹ́kọ̀ọ́ kan tàbí òǹkà ìdánimọ̀ òǹṣàmúlò tí ó wà tẹ́lẹ̀.
+This field is required	Àfo yìí pọn dandan láti fi ọ̀rọ̀ sílẹ̀ sí
+Save changes	Ṣe àpamọ́ àwọn ìyípadà
+Successfully reconnected!	Ìtúnwọ-orí-ìṣàsopọ̀ láṣeyanjú!
+You may not distribute, adapt, or build upon this resource without permission from the copyright owner.	O lè má ṣe àpínká, àtúnṣe sí, tàbí fi ohun àmúlò yìí ṣe ìpìlẹ̀ iṣẹ́ mìíràn láìsí ìgbaniláàyè láti ọ̀dọ̀ ẹni tí ó ni àṣẹ-ẹ̀dà náà.
+You may distribute, adapt, and build upon this resource – even commercially – as long as you give credit to the author.	O lè ṣe àpínká, àtúnṣe sí, àti fi ohun àmúlò yìí ṣe ìpìlẹ̀ iṣẹ́ mìíràn – kódà fún ti òwò – níwọ̀n ìgbà tí o bá bu ìyìn fún olùpilẹ̀ṣẹ̀ ohun àmúlò náà
+You may adapt and build upon this resource non-commercially.	O lè ṣe àtúnṣe sí, àti fi ohun àmúlò yìí ṣe ìpìlẹ̀ iṣẹ́ mìíràn láì lò ó fún ìṣòwò.
+Your new resources must credit the author and also be non-commercial.	Ohun àmúlò rẹ tuntun gbọdọ̀ bu ìyìn fún olùpilẹ̀ṣẹ̀ ohun àmúlò náà, kò sì gbọdọ̀ jẹ́ fún ìṣòwò.
+You may download this resource and share it with others as long as you give credit to the author.	O lè gba ohun àmúlò sílẹ̀ sórí ẹ̀rọ kí o se àpínká rẹ̀ níwọ̀n ìgbà tí o bá ń fi ìyìn fún olùpilẹ̀ṣẹ̀ ohun àmúlò náà.
+You may not adapt it in any way or use it commercially.	O kò lè lò ó fi ṣe iṣẹ́ mìíràn tàbí fún òwò ṣíṣe.
+You may adapt, and build upon this resource non-commercially, as long as you give credit to the author and license your new resources under identical terms.	O lè ṣe àtúnṣe sí, fi ohun àmúlò yìí ṣe ìpìlẹ̀ iṣẹ́ mìíràn fún ohun tí kì í ṣe ti òwò, níwọ̀n ìgbà tí o bá ń fi ìyìn fún olùpilẹ̀ṣẹ̀ ohun àmúlò náà, kí o sì fi ohun àmúlò rẹ̀ tuntun sábẹ́ àṣẹ irú kan náà.
+You may reuse the resource for any purpose, including commercially.	O lè tún ohun àmúlò yìí fún ohunkóhun, àti fún ìṣòwò.
+However it cannot be adapted, and credit must be provided to the author.	Síbẹ̀ kò ṣe fi ṣe iṣẹ́ mìíràn, o sì ní láti fi ìyìn fún olùpilẹ̀ṣẹ̀ náà.
+You may adapt and build upon this resource – even commercially – as long as you credit the author and license your new resources under identical terms.	O lè ṣe àtúnṣe sí, àti fi ohun àmúlò yìí ṣe ìpìlẹ̀ iṣẹ́ mìíràn – kódà fún ti òwò – níwọ̀n ìgbà tí o bá bu ìyìn fún olùpilẹ̀ṣẹ̀ ohun àmúlò náà kí o sì fi ohun àmúlò rẹ tuntun sí abẹ́ ìlànà tí ó bára mu.
+All new resources based on yours must also carry the same license.	Gbogbo ohun àmúlò tí ó bá ti ara tìrẹ jáde gbọdọ̀ wà lábẹ́ àṣẹ kan náà.
+This resource is free of known restrictions under copyright law.	Ohun àmúlò yìí kò pa ààlà fún ìlò rẹ̀ lábẹ́ òfin àṣẹ-ẹ̀dà.
+You may distribute, adapt, and build upon this resource, even commercially.	O lè ṣe àpínká, àtúnṣe sí àti fi ohun àmúlò yìí ṣe ìpìlẹ̀ iṣẹ́ mìíràn, pàápàá fún ti òwò
+This resource has a special license.	Ohun àmúlò yìí ní àkàndá   àṣẹ.
+Contact the owner of this license for a description of what you are allowed to do with it.	Kàn sí ẹni tí ó ni àṣẹ-ẹ̀dà fún àpèjúwe ohun tí o lè fi ṣe.
+You reserve all the rights provided by copyright law, and others may not legally distribute, adapt, or build upon this resource without your permission.	O ní ètò àti àṣẹ gbogbo lábẹ́ òfin àṣẹ-ẹ̀dà, àwọn ẹlòmíràn kò lè ṣe àpínká, àtúnṣe sí tàbí fi ohun àmúlò yìí ṣe ìpìlẹ̀ iṣẹ́ mìíràn láì tọrọ àyè lọ́wọ́ rẹ.
+This license lets others distribute, adapt, and build upon your resource – even commercially – as long as they credit you for the original creation.	Àṣẹ yìí gba ẹnìkẹnì láàyè láti lè ṣe àpínká, àtúnṣe sí, àti fi ohun àmúlò yìí ṣe ìpìlẹ̀ iṣẹ́ mìíràn – pàápàá fún òwò - níwọ̀n ìgbà tí wọ́n bá ń fì ìyìn fún ọ gẹ́gẹ́ bí olùpilẹ̀ṣẹ̀.
+This is the most accommodating of the Creative Commons licenses.	Èyí ni àṣẹ tí ó fi àyè gbani púpọ̀ jùlọ nínú àwọn àṣẹ Creative Commons.
+Recommended for maximum dissemination and use of licensed materials.	Ó dára fún ìtànká bí a ti ṣe fẹ́ áti lílò àwọn ohun tí ó wà lábẹ́ àṣẹ.
+This license lets others adapt and build upon your resource non-commercially.	Àṣẹ yìí gba ẹnìkẹnì láàyè láti lè ṣe àpínká, àtúnṣe sí, àti fi ohun àmúlò yìí ṣe ìpìlẹ̀ iṣẹ́ mìíràn – láì lò ó fún òwò.
+Although their new derivative resources must credit you and be non-commercial, they don’t have to be licensed under the same terms.	Bí-ó-ti-lẹ̀-jẹ́-wí-pé àwọn ohun àmúlò tuntun tí a ṣe láti ara rẹ̀ gbọdọ̀ bu ìyìn fún ọ, kò sì gbọdọ̀ jẹ́ lílò fún ìṣòwò, kò pọn dandan kí a fi wọ́n sí abẹ́ àṣẹ ìlò kan náà.
+This license is the most restrictive of the six main Creative Commons licenses.	Aṣẹ yìí jẹ́ eyìí tí o ni ìkálọ́wọ́kò julọ ninún awọ́n àṣẹ Creative Commons mẹ́fẹ̀ẹ̀fà.
+It only allows others to download your resources and share them with others as long as they credit you	O gbani láàyè fún wiwà jade iṣẹ́ yin áti àfirán rẹ̀ nìkan, níwọ̀n ìgbà tí a ba n fì ìyìn fún yin
+But they can’t change them in any way or use them commercially.	Ṣùgbọ́n ẹnìkẹnì kì yo ṣàyípadà rẹ̀ rárá tàbí lò ó fún ìpolówó ọjà kankan.
+This license lets others adapt and build upon your resource non-commercially, as long as they credit you and license their new resources under the identical terms.	Ètò àṣẹ yìí yóò fún àwọn ẹlòmíràn láàyè làti lo, tàbí ṣe àfikún sí iṣẹ rẹ láì sọ di títà níwòn ìgbà tí wọn bá sáà ti ń jẹki awọn ènìyàn mọ̀ wípé iṣẹ rẹ ni ti wọn si ń ṣe ètò àṣẹ fún iṣẹ wọn títun labẹ awọn ọrọ orukọ tó jọra wọn.
+This license lets others reuse the resource for any purpose, including commercially.	Aṣẹ yìí gba ẹnìkẹnì láàyè láti lè lò iṣẹ́ yìí fún ète èyíkéyìí, pàápàá fun ìpolówó ọjà.
+However it cannot be shared with others in adapted form, and credit must be provided to you.	Ṣùgbọ́n ẹnìkẹnì kì yo se àfirán ayípadà rẹ̀. A si ní láti fì ìyìn fún yin.
+This resource is free of known restrictions under copyright law.	Ohun àmúlò yìí kò ní ìkánilọ́wọ́kò lábẹ́ òfin àṣẹ-ẹ̀dà.
+This is a custom license to use when the other options do not apply.	Èyí jẹ́ àkànṣe ètò àṣẹ tí ó ṣe é lò nígbà tí gbogbo àwọn ẹ̀yàn tí ó kù kò ba wúlò.
+You are responsible for creating a description of what this license entails and communicating it with users.	Ojúṣe rẹ ni láti ṣe àpèjúwe ohun tí ń bẹ nínú ètò àṣẹ yìí kí o sì gbé sí etígbọ̀ọ́ awọ̀n òǹṣàmúlò.
+Creative Commons: attribution, non-commercial	Creative Commons: ìgbòṣùbà, kìí ṣe ti ìṣòwò
+Creative Commons: attribution, non-commercial, no derivatives	Creative Commons: ìgbòṣùbà, kìí ṣe ti ìṣòwò, kò sí àwòṣe
+Creative Commons: attribution, non-commercial, share-alike	Creative Commons: ìgbòṣùbà, kìí ṣe ti ìṣòwò, pínnílànàkannáà
+Creative Commons: attribution, no derivatives	Creative Commons: ìgbòṣùbà, kò sí àwòṣe
+The Kolibri software is built by Foundation for Learning Equality, Inc. More information, including Kolibri’s Terms of Service and Privacy Policy, can be found at:	A ṣe àgbékalẹ̀ iṣẹ́ àìrídìmú Kolibri fún Learning Equality, Inc. Àlàyé síwájú síi, pẹ̀lú àwọn Ìlànà isẹ́ ti Kolibri àti èto Ibi-ìkọ̀kọ̀, ni o lè rí ní:
+Kolibri is a software application that can be installed on a wide variety of devices without needing a connection to the internet.	Kolibri jẹ́ iṣẹ́ àìrídìmú tí a lè ṣàgbékalẹ̀ rẹ̀ si orí ọ̀pọ̀ ohun èlò ẹ̀rọ-ayárabíàṣá láì nílò ìṣàsopọ̀ ẹ̀rọ-ayélujára.
+Unlike many online web services that are similarly accessed through a web browser, there are thousands of independent Kolibri installations around the world – including this one.	Kò dàbí púpọ̀ nínú àwọn apèsè ìtakùn-àgbáyé tí ènìyàn lè rí lò nípasẹ̀ aṣàwáríkiri orí ìtakùn-àgbáyé, ẹgbẹẹgbẹ̀rún ìfisípò láì ní alákòóso ti Kolibri ni ó wà káàkiri ayé – pẹ̀lú eléyìí.
+Each Kolibri installation is managed and controlled by the owner of the device that it is installed on.	Ọ̀kọ̀ọ̀kan ìfisípò Kolibri ni ó wà ní ìṣàkóso àti ìdarí ẹni tí ó ni ohun ẹ̀rọ tí a ṣe àgbékalẹ̀ rẹ̀ lé
+In order to improve the quality of Kolibri and the resources on it, Learning Equality collects anonymized usage information when Kolibri has access to the internet.	Ní ojúnà àti mú agbára Kolibri àti àwọn ohun àmúlò orí rẹ̀ dára sí i, Learning Equality ṣe agbajo ìwífún ìlò àwọn òǹṣàmúlò aláìlórúkọ nígbà tí Kolibri bá rí àyè sí ẹ̀rọ-ayélujára.
+This includes IP addresses associated with the server, and device details such as the operating system and time zone.	Èyí pẹ̀lú àwọn ojúlé IP tí ó tan mọ́ apèsè náà, àti rírò kínikíni nípa ohun ẹ̀rọ-ayárabíàṣá gẹ́gẹ́ bí ẹ̀rọ ìṣiṣẹ́ àti aago agbègbè.
+We also collect aggregate statistics including: number of users and facilities, birth year and gender distribution, and resource popularity.	Bákan náà ni a máa ń ṣe ìkójọ ìfìṣiròsàsọtẹ́lẹ̀: iye àwọn òǹṣàmúlò àti àwọn ohun èlò, ọdún ìbí àti ìmọ̀ akọtàbábo, àti òkìkí ohun àmúlò.
+We make every effort to avoid collecting personally identifying information about Kolibri users.	A ń ṣe ohun gbogbo láti bìlà-fún ìgbàjọ ìwífún tí yóò tú àwọn òǹṣàmúlò Kolibri síta
+You should run Kolibri as a service in compliance with all applicable laws.	Ó yẹ kí o lo Kolibri gẹ́gẹ́ bi i ìpèsè ní ìbámu pẹ̀lú àwọn òfin tí a là sílẹ̀.
+If you are the owner of the device that Kolibri is installed on, please be aware that you are ultimately responsible for the safety and protection of the user data that gets stored in Kolibri.	Bí ó bá jẹ́ pé ìwọ ni o ni ohun-èlò tí a ṣàgbékalẹ̀ Kolibri lé lórí, jọ̀wọ́ kíyèsí pé ojúṣe rẹ ni ìpamọ́ àti ààbò ìwífún-alálàyé aṣàmúlò tí ó ń jẹ́ fífipamọ́ sínú Kolibri.
+You should also follow best information security practices for protecting your users’ data.	Ó sì yẹ kí o tẹ̀lé àwọn ìgbésẹ̀ ààbò ìwífún tí ó dára jùlọ fún ìdáàbòbo àwọn ìwífún-alálàyé àwọn aṣàmúlò rẹ.
+This includes keeping the device physically secure, encrypting the hard drive, using strong and unique passwords, keeping the operating system up-to-date, and having a properly-configured firewall.	Èyí ní í ṣe pẹ̀lú fífi ohun èlò náà pamọ́ nípa ti ara, yíyí-ìwífún-alálàyé-padà-sí-odù-ààbò àká-iṣẹ́-orí-ẹ̀rọ, lílo àwọn ọ̀rọ̀-ìfiwọlé tí ó múná dóko tí ó sì yàtọ̀ gedegbe, mímú ki ètò ìṣiṣẹ́-ẹ̀rọ ó bágbàmu, àti ṣíṣàtòpọ̀ ètò ààbò ògiriná ní ọ̀nà tí ó dáa.
+If you choose to sync your facility data to the Kolibri Data Portal, you would be granting Kolibri Data Portal organization administrators access to your data.	Bí o bá yàn láti mú ohun èlò ìwífún-alálàyé rẹ ṣiṣẹ́ pọ̀ mọ́ Ẹnu-àbáwọlé sí Ìwífún-alálàyé ti Kolibri, o ń fún àwọn alábòójútó ìṣètò ìkójọ Ẹnu-àbáwọlé sí Ìwífún-alálàyé Kolibri ní àyè sí ìwífún-alálàyé rẹ.
+You would also be granting access to Learning Equality, who operates the servers.	Bẹ́ẹ̀ gẹ́gẹ́ ni o yóò máa ṣílẹ̀kùn ìráàyè sí Learning Equality, tí ó ń mú àwọn apèsè ṣiṣẹ́ sílẹ̀.
+Share your password, let anyone access your account, or do anything that might put your account at risk	Pín ọ̀rọ̀-ìfiwọlé rẹ, jẹ́ kí ẹnikẹ́ni ó ráyè wọ ìṣàmúlò rẹ, tàbí ṣe ohunkóhun tí ó lè fi ìṣàmúlò rẹ sínú ewu.
+Remove, circumvent, disable, damage or otherwise interfere with security-related features of Kolibri	Ṣèmúkúrò, ṣèfòdá, sọdàìlágbára, sọsípò àdánù, tàbí bí bẹ́ẹ̀kọ́ ti ọwọ́ bọ àwọn àbùdá ètò ààbò Kolibri ní ojú
+Intentionally interfere with or damage the operation of Kolibri or any user’s enjoyment of it, by any means	Mọ̀ọ́mọ̀ sọsípò àdánù tàbí tọwọ́bọ ìmúṣiṣẹ́ Kolibri lójú tàbí ìgbádùn tí òǹṣàmúlòkóǹṣàmúlò rẹ̀ ń jẹ, ní ọ̀nà kọnà.
+Be aware that your personal information may be visible to others, depending on how the software has been configured and how you access the software.	Kíyèsára wí pé àwọn ìwífún àjẹmọtaraẹni rẹ lè di rírí fún àwọn ẹlòmíràn, èyí gbáralé ọ̀nà tí a gbà ṣàtòpọ̀ iṣẹ́-àìrídìmú àti bí o ti rí àyè bá wọlé sí iṣẹ́-àìrídìmú náà.
+Please contact your local Kolibri administrator to understand what personal information of yours might be stored, who it’s visible to, how to update or delete it, or if you believe your account has been compromised.	Jọ̀wọ́ kàn sí alábòójútó agbègbè Kolibri rẹ láti ní òye ìwífún àjẹmọtaraẹni tìrẹ tí ó lè di fífipamọ́, ẹni tí ó lè rí i, bí o ṣe lè ṣe ìmúbágbàmu tàbí pa á rẹ́, tàbí bí o bá nígbàgbọ́ wí pé ìṣàmúlò rẹ ti bọ̀ sí ọwọ́ òṣèré-ibi
+When you use Kolibri as a logged-in user, information such as your name, username, age, birth year, identification number, the resources that you view, and your performance on assessments may be made available to administrators and coaches in your facility.	Nígbàtí o bá ń lo Kolibri gẹ́gẹ́ bí òǹṣàmúlò tí ó forúkọsílẹ̀-wọlé, ìwífún gẹ́gẹ́ bí orúkọ, orúkọ-òǹṣàmúlò, ọjọ́-orí, ọdún ìbí, òǹkà ìdánimọ̀, logged-in user, àwọn ohùn àmúlò ìgbẹ́kẹ̀lé tí o wò rí, àti ìṣe àgbéyẹ̀wò rẹ lè wà ní àrọ́wọ́tó fún ìlò àwọn alábòójútó àti akọ́ni ní orí ohun-èlò rẹ.
+Your information may also be used by the developers of Kolibri and shared with content creators to help improve the software and resources for different learner types and needs.	Ẹ̀wẹ̀wẹ̀ ìwífún rẹ lè jẹ́ lílò fún àwọn akèdè-iṣẹ́-àìrídìmú ti Kolibri tí yóò sì jẹ́ pínpín fún àwọn aṣèdá ọgbọ́n àtinudá láti mú kí iṣẹ́-àìrídìmú àti àwọn ohun àmúlò fún onírúurú ohun tí irúfẹ́ àwọn akẹ́kọ̀ọ́ fẹ́ ó gbé pẹ́lí sí i
+When you use Kolibri as a guest, aggregate information about the resources you and other guest users view may be available to administrators and certain coaches.	Nígbàtí o bá ń lo Kolibri gẹ́gẹ́ bí àlejò, ìkópọpọ̀ ìwífún nípa àwọn ohun àmúlò ìgbẹ́kẹ̀lé tí ìwọ àti àwọn òǹṣàmúlò mìíràn wò lè wà ní àrọ́wọ́tó fún àwọn alábòójútó àti àwọn akọ́ni mélòó kan.
+Signing in to third-party applications using Kolibri	Fíforúkọsílẹ̀ wọlé sí orí àwọn iṣẹ́ àìrídìmú ẹni-kẹta mìíràn láti inú Kolibri
+Close navigation	Pa ìdaríkiri dé
+Main user navigation	Ìdaríkiri aṣàmúlò gan-an
+Copied to clipboard	Ẹ̀dà ti wà lórí apákó-ìdìmú
+Copy to clipboard	Fi ẹ̀dà sí orí apákó-ìdìmú
+Please contact the device administrator for this server	Jọ̀wọ́ kàn sí alábòójútó apèsè yìí
+This online version of Kolibri is intended for demonstration purposes only. Users and data will be periodically deleted.	Ẹ̀yà orí ayélujára Kolibri yìí wà fún ti ìfihàn lásán. Àwọn aṣàmúlò àti ìwífún-alálàyé yóò jẹ́ píparẹ́ nídàágbá kọ̀ọ̀kan.
+The demo shows features of the latest Kolibri version, and all resources found are samples.	Ìfihàn náà fi àwọn àbùdá ẹ̀yà Kolibri tuntun hàn, tí gbogbo àwọn ohun àmúlò orí rẹ̀ sì jẹ́ àpèjúwe.
+Click to add vertices	Ṣíra tẹ àtẹ̀ìpàṣẹ láti fi àwọn igun kún un
+Custom exponent	Àkànṣe nọ́ḿbà àgbésókè
+Left parenthesis	Àmì iga òsì
+Make circle open	Mú kí òbìrìkìtì ṣísílẹ̀
+Make sure you fill in all cells in the matrix.	Ríi dájú pé o fi ohun tó yẹ sínú gbogbo àfo àpótí ìró tòun ibú náà
+Make sure you select something for every row.	Ríi dájú pé o yan ohun kan fún ìlà tó dábùú gbogbo.
+Math input box	Àpotí ìfisí ìṣirò
+Navigate right into the numerator of a fraction	Daríkiri sí ọ̀tún sínu òǹkà òkè ti ìdá
+Navigate right out of a set of parentheses	Daríkiri sí ọ̀tún síta àwọn iga kan
+Navigate right out of an exponent	Daríkiri sí ọ̀tún síta ti òǹkà àgbésókè
+Navigate right out of the denominator of a fraction	Daríkiri sí ọ̀tún síta òǹkà ìsàlẹ̀ ti ìdá
+Navigate right out of the numerator and into the denominator	Daríkiri sí ọ̀tún síta òǹkà òkè àti sínú òǹkà ìsàlẹ̀ náà
+Remove highlight	Yọ pàkíyèsí kúrò
+Right parenthesis	Àmì iga ọ̀tún
+Use the interactive graph to define a correct transformation.	Lo àtẹìjúwe àjúmọ̀ṣe náà láti túmọ̀ ìparadà tí ó tọ́
+We could not understand your answer.	Ìdáhùn rẹ kò yé wa.
+Please check your answer for extra text or symbols.	Jọ̀wọ́ yẹ ìdáhùn rẹ wò fún àlékún ọ̀rọ̀ tàbí àwọn àmì.
+You must turn on all of the lights to continue.	O gbọ́dọ̀ tan gbogbo àwọn iná náà láti tẹ̀síwájú.
+Your answer is almost correct, but it is missing a <code>\\%</code> at the end.	Ìdáhùn rẹ ti fẹ́rẹ̀ẹ́ tọ́, ṣùgbọ́n ó ku <code>\\%</code> kan ní ìparí.
+Your answer is almost correct, but it needs to be simplified.	Ìdáhùn rẹ kù dẹ̀dẹ̀ kí ó tọ́, ṣùgbọ́n ó gbọ́dọ̀ rọrùn.
+Transcript off	Àdàkọ ní pípa
+Beginning of transcript	Ìbẹ̀rẹ̀ àdàkọ
+End of transcript	Òpin àdàkọ
+Transcript cue caption text	Àkọ́lé àdàkọ ìṣínilétí
+Transcript cue start time	Ìgbà tí àdàkọ ìṣínilétí yóò bẹ̀rẹ̀
+Lessons assigned	Àwọn ẹ̀kọ́ àtiṣe
+View by groups	Ìwò lẹ́gbẹ́lẹ́gbẹ́
+Select topics or exercises	Yan àkórí tàbí iṣẹ́ ìdánrawò
+Create new quiz	Ṣẹ̀dá Ìdánwò kékeré tuntun
+Exit search	Pa àwárí dé
+New quiz created	Ti ṣẹ̀dá àwọn ìdánwò kékeré titun
+Changes to quiz saved	Àwọn àyípadà sí ìdánwò kékeré ti wà ní ìpamọ́
+There was a problem saving your changes	Ìṣoro wáyé nígbà ìṣàfipámọ́ àwọn ìyípadà rẹ
+Manage lesson resources	Ṣàkóso àwọn ohun èlò ẹ̀kọ́
+There was a problem updating this lesson	Ìṣòro wáyé nígbà ìṣàfikún ẹ̀kọ́ yìí
+New lesson created	Ti ṣẹ̀dá ẹ̀kọ́ titun
+Visible to learners	Jẹ́ rírí fún àwọn akẹ́kọ̀ọ́ lò
+You do not have any lessons	O kò ní ẹ̀kọ́ kankan
+There was a problem saving this lesson	Ìṣoro wà ní ìṣàfipamọ́ ẹ̀kọ́ yìí
+Coach resources:	Ohun àmúlò ìdánilẹ́kọ̀ọ́ akọ́ni:
+Assign quiz to	Yan ìdánwò kékeré yìí fún
+Copy quiz to	Ṣe àdàkọ àwọn ìdánwò kékeré sí
+New lesson order saved	Ìtòlẹ́sẹẹsẹ ẹ̀kọ́ titun ti wà ní ìpamọ́
+Kolibri Studio channels	Awọn Ìkànnì Ilé-ìṣiṣẹ́ Kolibri
+Unlisted channel	Ìkànnì tí kò sí lákàálẹ̀
+Enter channel token	Ṣàtẹ̀wọ̀lé àmì ìkànnì
+Check whether you entered token correctly	Ṣàyẹ̀wò bóyá o ṣàtẹ̀wọlé àmì bí ó ṣe tọ́
+Unable to connect to token	Kò lè ṣèsopọ̀ mọ́ àmì
+Channel tokens unlock unlisted channels from Kolibri Studio	Àwọn àmì ìkànnì ti ṣí àwọn àmì ìkànnì tí a kò kà sílẹ̀ láti Ilé-ìṣiṣẹ́ Kolibri
+Some channels you selected for import will be automatically updated to the latest version.	Àwọn ìkànnì tí o yàn fún ìṣàgbéwọlé yóò ṣàfikún sí ẹ̀yà tí ó titun jù fúnra rẹ̀.
+Do you wish to continue?	Ǹjẹ́ o fẹ́ tẹ̀síwájú bí?
+This channel was not found on any attached drives	Ìkànnì yìí kò sí lórí àká-iṣẹ́-orí-ẹ̀rọ àfimọ́ kankan
+This channel was not found on other instances of Kolibri	Ìkànnì yìí ò sí lórí Kolibri
+This channel was not found on Kolibri Studio	Ìkànnì yìí ò sí lórí Ilé-ìṣiṣẹ́ Kolibri
+This topic has no sub-topics or resources	Àkórí yìí kò ní ìpín-àkórí tàbí ohun àmúlò mìíràn lábẹ́ rẹ̀
+Channel is not available to export from server	Ìkànnì kò sí lárọ̀ọ́wọ́tó fún ṣíṣàgbéjáde láti orí apèsè
+There was a problem accessing the drives connected to the server	Ìṣoro àìráyè láti dé orí àwọn àká-iṣẹ́ tí a sopọ̀ mọ́ apèsè wáyé
+Drive not found or is disconnected	Àká-iṣẹ́ kò jẹ́ rírí tàbí ó wà ní ipò àìlágbáraiṣẹ́.
+Kolibri Studio is unavailable	Ilé-ìṣiṣẹ́ Kolibri kò sí ní àrọ́wọ́tó
+The device with this ID does not have the desired channel	Ẹ̀rọ iṣẹ́ tí o ni ìdánimọ̀ yìí kò ní ìkànnì tí ó yẹ
+The Kolibri server on the selected device is not available at the moment	Apèsè Kolibri ti orí ẹ̀rọ tí o yàn kò sí ní àrọ́wọ́tó ní àkókò yìí
+A transfer is currently in progress	Ìgbélọsíbòmìíràn ń lọ lọ́wọ́
+This information may be helpful for troubleshooting or error reporting	Ìwífún yìí lè wúlò láti ṣe-ìyanjú-ìṣòro tí ó wáyé tàbí ìfisùn àṣìṣẹ́.
+Free disk space	Fọ àká mọ́ láti pèsè àyè
+Learn page	Ojú ìwé ìkẹ́kọ̀ọ́
+Learners should only see resources assigned to them in classes	Àwọn ohun àmúlò tí a yàn fún akẹ́kọ̀ọ́ ní yàrá ìkẹ́kọ̀ọ́ nìkan ni wọ́n gbọdọ̀ rí.
+Allow other computers on this network to import my unlisted channels	Fi àyè gba àwọn ẹ̀rọ-ayárabíàṣá mìíràn lórí ìṣàsopọ̀ yìí láti ṣàgbéwọlé àwọn ìkànnì mi tí kò sí lákàálẹ̀.
+Drives found	Rí àwọn àká-iṣẹ́-orí-ẹ̀rọ
+No drives with the selected channel are connected to the server	Kòsí àwọn àká-iṣẹ́ pẹ̀lú ìkànnì ti a sopọ̀ mọ́ apèsè.
+No drives with Kolibri resources are connected to the server	Kò sí àwọn ohun àmúlò Kolibri tí ó sopọ̀ mọ́ apèsè
+Search for a channel	Ṣàwarí ìkànnì
+View task manager	Wo alákòóso iṣẹ́
+Make changes to what users can manage on your device	Ṣe àwọn àyípadà sí ohun tí àwọn olùṣàmúlò lè ṣàkóso lóri ẹ̀rọ rẹ
+Manage Device Permissions	Ṣàkóso Ìyọ̀ọ̀da Ẹ̀rọ
+New resources available	Àwọn ohun àmúlò tuntun wà
+There was a problem getting the contents of this channel	Ìṣòro kan wáyé tí kò jẹ́ kí ìgbélọsíbòmìíràn àwọn àṣàyàn àkóónú náà ó bọ́ si
+Finding local drives…	Wíwá àwọn àká-iṣẹ́-orí-ẹ̀rọ agbègbè…
+There was a problem finding local drives.	Ìṣoro wáyé ní wíwá àwọn àká-iṣẹ́ agbègbè.
+Loading connections…	Ìṣàsopọ̀ ń kóra jọ…
+Attached drive or memory card	Àká-iṣẹ́ tàbí ike-pélébé ìpamọ́ ìfimọ́
+Kolibri Studio (online)	Ilé-ìṣiṣẹ́ Kolibri (lórí ẹ̀rọ-ayélujára)
+Import resources from another instance of Kolibri running on another device, either in the same local network or on the internet	Ṣàkówọlé àwọn ohun àmúlò Kolibri tí ó wà lórí ẹ̀rọ mìíràn, ó lè jẹ́ nínú ìṣàsọpọ̀ agbègbè kan náà tàbí ní orí ẹ̀rọ-ayélujára
+Transfer failed. Please try again.	Ìgbélọsíbòmìíràn kùnà. Jọ̀wọ́ tún gbìyànjú lẹ́ẹ̀kansi.
+Invalid user ID	Ìdánimọ̀ òǹṣàmúlò tíkò tọ̀nà
+Has all device permissions and can manage device permissions of other users	Ó ní gbogbo àṣẹ lórí ohun-èlò ó sì lè ṣe àbójútó àṣẹ lórí ohun-èlò àwọn ẹlòmíì
+Has admin permissions for all facilities on this device	Ó ní gbogbo ìgbàláyè gbogbo ohun ẹ̀rọ tí ó sì lè ṣàkóso ìgbàláàyè àwọn aṣàmúlò mìíràn
+The first thing you should do is import some resources from the Channel tab.	Ohun àkọ́kọ́ tí ó yẹ kí o ṣe ni pé kí o ṣàgbéwọlé àwọn ohun àmúlò láti orí pátákó Ìkànnì.
+The super admin account you created during setup has special permissions to do this.	Ìṣàmúlò alábòójútó àràmàndà tí o ṣí nígbà tí o ń ṣẹ̀tọ́ ní àwọn àkàndá ìgbàláàyè yìí.
+Learn more in the Permissions tab later.	Kọ́ síwájú sí i nínú pátákó Ìgbàláàyè bí ó bá yá.
+Invalid header label found in the first row	Àìtọ̀ ìsààmì ọ̀rọ̀-aṣorí wà nínú ìlà àkọ́kọ́
+No default facility exists. Make sure to provision this device before importing	Kò sí ohun èlò àbáwá kankan. Rí i dájú wí pé ó ṣe ìpèsè sílẹ̀ ẹ̀rọ yìí kí ìkọ́wọlé ó tó jẹ́ ṣíṣe.
+The password field is required.	O ní láti dí àfo ọ̀rọ̀-aṣínà.
+To leave the password unchanged in existing users, insert an asterisk (*)	Láti fi ọ̀rọ̀-ìfiwọlé sílẹ̀ láìyípadà ní àwọn olùṣàmúlò tí ó wà tẹ́lẹ̀, fi àmì ìràwọ̀ (*) sílẹ̀
+Database ID is not valid	Ibùgbéìwífúnalálàyé ìdánimọ̀ ID kò kòjú òṣùwọ̀n
+The requested channel does not exist on the content server	Ìkànnì náà tí o bèèrè kò sí lóri àkóónú apèsè
+No appropriate redirect pages found.	Kò sí àwọn ojú ewé tí a tún darí.
+It is likely that Kolibri is badly configured	Ó ṣe é ṣe kí ó jẹ́ pé Kolibri kò ṣiṣẹ́ bó ṣe yẹ
+OpenID Provider Authorization	Ìfúnláṣẹ Olùpèsè Ìdánimọ̀Ìṣísílẹ̀
+Open site navigation	Ṣí ìlọkiri ibùdó
+Back to home	Padà sí ilé
+Sorry! Something went wrong!	Má binú! Ohun kan ò tọ́!
+Resource not found	Ohun àmúlò kò jẹ́ àwárí
+Any identifying string, such as a student ID or email address.	Èyíkéyìí okùn tí ó ń ṣèdámọ̀, gẹ́gẹ́ bí i ti ìdánimọ̀ akẹ́kọ̀ọ́ tàbí ojúlé àpò-ìwé orí ayélujára.
+Maximum 64 characters	Ọmọ-ọ̀rọ̀ 64 ni ó pọ̀ jù.
+A CSV spreadsheet should use the first row as a header, and contain the following columns:	Àtẹ́-iṣẹ́ CSV gbọdọ̀ ṣe àmúlò ìlà àkọ́kọ́ gẹ́gẹ́ bí aṣorí, tí ó sì ní àwọn ọwọ̀n wọ̀nyí:
+Maximum 125 characters.	Ọmọ-ọ̀rọ̀ 125 ni èyítí ó pọ̀ jù.
+Can contain letters, numbers and underscores	Lè ní àwọn ọ̀rọ̀-kíkọ, òǹkaye àti ìlà abẹ́ nínú
+An ID used by Kolibri to uniquely identify a user.	Ìdánimọ̀ ID kan tí Kolibri ń lò láti ṣe ìdámọ́ yàtọ̀ olùṣàmúlò.
+Leave it blank to create a new user	Fi sílẹ̀ ní òfìfo láti ṣẹ̀dá òǹṣàmúlò tuntun
+Edit user info using an external spreadsheet program	Ṣàtúnṣe ìwífún àwọn olùṣàmúlò nípa lílo àtẹ-iṣẹ́ ti-òde
+Export a CSV file which contains all users, and the classes that they are associated with	Kó fáìlì CSV tí ó ní olùṣàmúlò gbogbo nínú bọ́ sọ́de, àti àwọn ọ̀wọ́ tí ó bá-kẹ́gbẹ́
+Import a CSV file to create and update users	Kó fáìlì CSV kan wọlé láti ṣẹ̀dá àti ṣàfikún àwọn olùṣàmúlò
+You can manage users and classes in bulk:	O lè ṣàkóso àwọn òǹṣàmúlò àti ọ̀wọ́ ẹ̀kọ́ ní ọ̀pọ̀:
+Import and export users	Ṣe àkówọlé àti àgbébọ́sóde àwọn olùṣàmúlò
+View spreadsheet format reference	Wo ìtọ́kasí ìlànà-títò àtẹ̀-iṣẹ́
+Before committing the import you will be shown a summary of changes that will be made.	Kí o tó ṣe àkówọlé wà á rí àwọn àtúnṣe tí yóò jẹ́ ṣíṣe ní ṣókí.
+Generating log file...	Pípilẹ̀ṣẹ̀ àkápọ̀-iṣẹ́ àkọsílẹ̀...
+Download CSV (comma-separated value) files containing information about users and their interactions with the resources on this device	Ṣègbàsílẹ̀ àwọn àkápọ̀-iṣẹ́ CSV (èyí tí a fi ààmì ìdanudúró pín níyà) tí o ní ìwifún nípa àwọn òǹṣàmúlò àti ìbáṣepọ̀ wọn pẹ̀lú àwọn ohun àmúlò lórí ohun ẹ̀rọ yìí.
+Go to Device permissions to change this	Láti ṣe àyípadà yìí, yẹ àṣẹ ìyọ̀ǹda orí ohun-èlò rẹ wò
+Edit user details	Ṣe àtúnṣe sí àwọn àlàyé nípa òǹṣàmúlò
+Submit search query	Fi ìbéèrè ohun tí o fẹ́ ṣàwárí ṣọwọ́.
+Enter search query	Kọ ìbéèrè ohun tí o fẹ́ ṣàwárí
+When importing from a spreadsheet you can create, update, and optionally delete dozens or hundreds of facility users at a time by loading new information from comma-separated-value (CSV) files.	Nígbà tí o bá ń ṣe ìkówọlé láti inú àtẹ-iṣẹ́ o lè ṣẹ̀dá, ṣàfikún, àti ṣàṣàyàn pípa ọ̀pọ̀lọpọ̀ tàbí ọgọọgọ́rùn-ún àwọn òǹṣàmúlò ohun-èlò nígbà kan náà nípasẹ̀ ṣíṣàjọ ìwífún tuntun láti inú àwọn àkápọ̀-iṣẹ́ ohun-tí-a-fi-àmì-ìdánudúró-pín-níyà (CSV).
+Also delete users and classes not in CSV	Pa àwọn òǹṣàmúlò àti ọ̀wọ́-ẹ̀kọ́ tí kò sí ní CSV rẹ́ bákan náà
+Kolibri is unable to render this resource	Kolibri kò lè pèsè ohun àmúlò yìí
+It is possible to use Kolibri to register or sign in to third-party applications.	O lè fi Kolibri forúkọsílẹ̀ tàbí wọlé sí orí àwọn àtòjọ-ètò mìíràn.
+If you do this, the other application will have access to your Kolibri username, unique user ID, and full name.	Bí o bá ṣe èyí, àwọn àtòjọ-ètò mìíràn náà yìi lè lo àwọn orúkọ-òǹṣàmúlò, ìdánimọ̀ òǹṣàmúlò, àti orúkọ rẹ.
+Include a description of what you were trying to do and what you clicked on when the error appeared.	Ṣe àfikún àpèjúwe nǹkan tí o ń gbìyànjú láti ṣe àti ohun tí o ṣira tẹ̀ nígbàtí àṣìṣe náà jẹyọ.
+Importing is not possible due to the following errors:	Ìkówọlé kò ṣe é ṣe nítorí àwọn ìṣìṣe wọ̀nyí:
+You have no quizzes assigned	A kò yan àwọn ìdánwò kékeré kankan fún ọ
+You have no lessons assigned	A kò yan àwọn ẹ̀kọ́ kànkan fún ọ
+Summary of changes if you choose to import:	Àwọn àyípadà ní ṣókí bí o bá fẹ́ ṣe ìkówọlé:
+Sync facility data	Ìṣàmúdọ́gba ìwífún-alálàyé ohun-èlò
+You can also have multiple facilities on the same device	Bákan náà ni o lè ní onírúurú ohun-èlò ní orí ẹ̀rọ kan náà.
+Set black theme	Ṣètò àkórí ètò àwọ̀ dúdú
+Set grey theme	Ṣètò àkórí ètò àwọ̀ eléerú
+Set white theme	Ṣètò àkórí ètò funfun
+Show 'download' button with resources	Ṣàfihàn àtẹ̀ìpàṣẹ 'ìgbàwálẹ̀' pẹ̀lú ohun àmúlò
+Click on the tiles to change the lights.	Ṣíra-tẹ àwọn àlẹ̀mọ́ náà láti yí àwọn iná náà padà.
+Fraction, excluding the current expression	Ìdá, láìpẹ̀lú àwọn àmì ìṣirò lọ́wọ́lọ́wọ́
+Fraction, with current expression in numerator	Ìdá, pẹ̀lú àwọn àmì ìṣirò òǹkà ìsàlẹ̀ lọ́wọ́lọ́wọ́
+The media playback was aborted due to a corruption problem or because the media used features your browser did not support	Ìṣerépadà ìgbóhùnàtàwòránjáde dúró lójìjì nítorí ìṣoro ìdíbàjẹ́ tàbí nítorí ìgbóhùnàtàwòránjáde ń lo àwọn àbùdá tí kò bá aṣàwáríkiri rẹ ṣiṣẹ́pọ̀
+The media is encrypted and we do not have the keys to decrypt it	Ìgbóhùnàtàwòránjáde náà wà ní ipò tí kò lè mú wa lo ohun tí ó wà nínú rẹ̀ a kò sì ní àwọn kòkòrò láti yí i padà-sí-ààbò
+The media could not be loaded, either because the server or network failed or because the format is not supported	Ìgbóhùnàtàwòránjáde náà kò ṣarajọ, bóyá nítorí àpèsè tàbí ìṣàsọpọ̀ kùnà tàbí nítorí kì í ṣe irú èyí tí ó ń bá a ṣiṣẹ́pọ̀.
+Beginning of reading passage.	Ìbẹ̀rẹ̀ kíka àyọkà.
+Check your significant figures.	Ṣàyẹ̀wò àwọn òǹkà rẹ tó lápẹẹrẹ
+Click on the tiles to change the lights.	Tẹ̀ àwọn àlẹ̀mọ́ náà láti yí àwọn iná náà padà.
+In Kolibri, you can use a facility to manage a large group of users, like a school, an educational program or any other group learning setting.	Ní Kolibri, o lè lo ohun-èlò kan láti fi ṣàkọ́so ọ̀wọ́ àwọn olùṣàmúlò kan, bí ilé-ìwé, ètò ajẹmẹ́kọ̀ọ́ tàbí èyíkéyìí ìkẹ́kọ̀ọ́ lẹ́gbẹ́lẹ́gbẹ́, bákan náà ni o lè ní onírúurú ohun-èlò ní orí ẹ̀rọ kan náà.
+This account allows you to manage all content and user accounts on this device	Aṣàmúlò yíì fi àyè gbà ọ́ láti ṣe àbójútó ohun gbogbo àti àwọn ìṣàmúlò òǹṣàmúlò tó ń bẹ lórí ẹ̀rọ yìí
+Duplicated username	Ìsọdiméjì orúkọ aṣàmúlò
+Mix of valid and/or invalid header labels found in first row	Àwọn àdàlù àmì aṣorí tí ó yanrantí àti/tàbí àmì aṣorí alàìyanrantí wà ní ìlà ìbú àkọkọ́
+Enable guest access?	Se ìyọ̀nda ìráyè fún àlejò?
+Please be patient. Setup may take several minutes	Jọ̀wọ́ ní sùúrù. Àgbékalẹ̀ lè gba àwọn ìṣẹ́jú díẹ̀
+If you are setting up Kolibri to be used by other users, you or someone you delegate will be responsible for protecting and managing the user accounts and personal information stored on this device.	Bí o bá ń ṣe àgbékalẹ̀-èto Kolibri fún lílò àwon ẹlòmíràn, ojúṣe ìwọ tàbí eni tí o bá gbéṣẹ́ rán ni dídáààbòbò àti bíbójútó ìṣàmúlò àwọn òǹṣàmúlò àti ìwífún ti-ara-ẹni tí ó wà nípamọ́ lórí ẹ̀rọ yìí.
+Answered questions	Àwọn ìbéèrè tí ó ti di dídáhùn
+Questions answered correctly	Àwọn ìbéèrè tí ó jẹ́ dídáhùn dáradára
+This quiz has not been started yet	Ìdáhùn sí ìbéèrè kúkurú yìí kòì bẹ̀rẹ̀
+Resource not found on device	Kò sí ohun àmúlò lórí ohun ẹ̀rọ yìí
+Some report data is missing, either because there are resources that were not found on the device, or because they are not compatible with your version of Kolibri.	Àwọn ìwífún-alálàyé àbájáde ẹ̀kọ́ kan ti di àwátì, bóyá látàrí àwọn ohun àmúlò tí ó di àwátì lórí ẹ̀rọ, tàbí nítorí pé wọn kò báramu pẹ̀lú ẹ̀yà Kolibri rẹ
+Go to download page	Lọ sí ojú ewé ìgbẹ̀dà àkápọ̀-iṣẹ́
+Some resources are not supported by this version of Kolibri. You may need to upgrade to view them.	Àwọn ohun àmúlò kan kò bá ẹ̀yà Kolibri yìí ṣiṣẹ́. O lè ní láti ṣàfikún tí ó bágbà mu láti rí wọn.
+Upgrade Kolibri to view resources	Ṣàfikún tí ó bágbà mu sórí Kolibri láti rí àwọn ohun àmúlò
+You can now manage channels and the permissions of other users.	O lè ṣe àbójútó àwọn ìkànnì àti ìgbàláàyè àwọn òǹṣàmúlò mìíràn.
+Learn more in the Permissions tab.	Mọ̀ sí i níbi ìpín ojú ewé Ìgbàláàyè.
+If you have synced this facility to Kolibri Data Portal or to another device on your local network, you may be able to load it back to this device.	Bí o bá ti mú ohun-èlò yìí ṣiṣẹ́ pọ̀ mọ́ Ẹnu-àbáwọlé Ìwífún-alálàyé Kolibri tàbí ṣiṣẹ́ pọ̀ mọ́ ẹ̀rọ mìíràn lórí ìṣàsopọ̀ agbègbè rẹ, ó ṣe é ṣe kí o gbé e padà sí orí ẹ̀rọ yìí.
+Sync to Kolibri Data Portal if your facility is registered	Múṣiṣẹ́pọ̀ pẹ̀lú Ẹnu-àbáwọlé Ìwífún-alálàyé Kolibri bí o bá ti forúkọsílẹ̀.
+Sync facility data with another instance of Kolibri on your local network or the internet	Mú ohun-èlò ìwífún-alálàyé ṣiṣẹ́ papọ̀ mọ́ àpẹẹrẹ Kolibri mìíràn lórí ìṣàsopọ̀ ti agbègbè rẹ tàbí lórí ẹ̀rọ ayélujára
+Sync all facility data	Mú ìwífún-alálàyé ohun èlò gbogbo ṣiṣẹ́pọ̀
+This will sync all registered facilities on this device to Kolibri Data Portal.	Èyí yóò ṣe ìmúṣiṣẹ́pọ̀ gbogbo ohun èlò tí ó forúkọsílẹ̀ fún Ẹnu-àbáwọlé Ìwífún-alálàyé Kolibri lórí ẹ̀rọ yìí
+Has all device permissions and can manage the device permissions of other users	Ní gbogbo ìgbàláàyè ó sì lè ṣe àbójútó àwọn ìgbàláàyè ẹ̀rọ àwọn òǹṣàmúlò mìíràn
+Warning: Only the facility name will be changed, and the new name will be synced and updated on other devices linked to this facility.	Ìkìlọ̀: Orúkọ ohun-èlò nìkan ni yóò yípadà, orúkọ titun náà yóò ṣiṣẹ́ papọ̀ yóò sì ṣàfikún ìbágbàmu lórí àwọn ẹ̀rọ mìíràn tí ó sọ pọ̀ mọ́ ohun-èlò yìí.
+Full network address	Ojúlé ìṣàsopọ̀ ẹ̀rọ-ayélujára
+Could not connect to this network address	Kò lè so pọ̀ mọ́ ojúlé ìṣàsopọ̀ ẹ̀rọ-ayélujára yìí
+Please enter a valid IP address, URL, or hostname	Jọ̀wọ́ fi ojúlé IP, URL, tàbí orúkọibùdó tí ó tọ́ sílẹ̀
+Choose a name for this address so you can remember it later:	Yan orúkọ fún ojúlé yìí kí o ba rántí rẹ̀ bí ó bá yá:
+e.g. House network	bí àpẹẹrẹ Ìṣàsopọ̀ ilé
+Trying to connect to server…	Ìgbìyànjú láti so pọ̀ mọ́ apèsè…
+You must have super admin permissions to view this page	O gbọdọ̀ ti gbààyè alábòójútó àràmàndà láti wo ojú-ewé yìí
+Changes not saved	Àwọn àyípadà kò di àpamọ́
+Changes saved	Àwọn àyípadà ti di àpamọ́
+Establishing connection	Ń fìdí ìsopọ̀ múlẹ̀
+Locally integrating received data	Ìfisí ìwífún-alálàyé ti ajẹmágbègbè tí ó ti jẹ́ gbígbà
+Locally preparing data to send	Ń pèsè ìwífún-alálàyé ajẹmágbègbè láti firánṣẹ́
+Remotely integrating data	Ìfisí ìwífún-alálàyé ọ̀nà jínjìn
+Remotely preparing data	Ń pèsè ìwífún-alálàyé ọ̀nà jínjìn
+Facility successfully removed	Ti ṣàyọkúrò ohun elò láìsíyọnu
+No active quizzes	Kò sí ìdánwò kúkúrú tó ń ṣiṣẹ́
+No inactive quizzes	Kò sí ìdánwò kúkúrú tí ò ṣiṣẹ́
+Average quiz score	Agbedeìpín àmì ìdinwọ̀n ìbéèrè kúkurú
+Average time spent	Agbedeìpín àkókò tí a lò
+All learners will be given a final score and a quiz report.	Gbogbo akẹ́kọ̀ọ́ ni yóò gba yóò gba àmì òdinwọ̀n ìparí àti ìjábọ̀ àwọn ìbéèrè.
+Unfinished questions will be counted as incorrect.	Àìtọ́ ni a ó ka àwọn ìbéèrè àìṣeparí sí.
+Export as CSV	Kówọlé gẹ́gẹ́ bí CSV
+Starting the quiz will make it visible to learners and they will be able to answer questions	Bíbẹ̀rẹ̀ ìbéèrè náà yóò fún àwọn akẹ́kọ̀ọ́ ní àǹfààní láti rí ẹ̀kọ́ yìí kà tí wọn yóò sì ní àǹfààní láti dáhùn àwọn ìbéèrè.
+Please enter a valid IP address, URL, or hostname	Jọ̀wọ́ kọ ojúlé IP, URL, tàbí orúkọapèsè
+create new classes (for any referenced class names that do not yet exist)	ṣẹ̀dá àwọn ọ̀wọ́ ẹ̀kọ́ tuntun (fún èyíkéyìí ìtọ́kasí orúkọ ọ̀wọ́ ẹ̀kọ́ tí kò sí tẹ́lẹ̀tẹ́lẹ́rí)
+set which classes each learner is enrolled in	ṣààtò ọ̀wọ́ ẹ̀kọ́ tí ọ̀kọ̀ọ̀kan akẹ́kọ̀ọ́ forúkọsílẹ̀ fún
+set which classes each coach is assigned to	ṣààtò ọ̀wọ́ ẹ̀kọ́ tí a fi ọ̀kọ̀ọ̀kan akọ́ni sí
