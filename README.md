@@ -20,6 +20,20 @@ We provide a detailed explanation of the dataset and some benchmark experiment i
 * Semi-supervised
 	* [EN-YO](https://drive.google.com/drive/folders/1dXbBtilyd77SEH_bMbkVtO3Y5yE6W6c7)
 	* [YO-EN](https://drive.google.com/drive/folders/1Pr24Ectz2iU1LtopTI6xIPG1h1PxXd9a)
+These two models were trained using Fairseq. Therefore to generate translations using these models, you need to have installed Fairseq. 
+
+```
+CUDA_VISIBLE_DEVICES="$devices" fairseq-interactive \
+	$DATADIR/$bpename \
+	--path $model/$checkpoint \
+	--beam 5 --source-lang $tgt --target-lang $src \
+	--buffer-size 2048 \
+	--max-sentences 64 \
+	--remove-bpe
+	< $BPEDIR/$bpename/test/test.$src-$tgt.$tgt.bpe \
+	| grep -P "D-[0-9]+" | cut -f3 \
+	> $evaldir/test.${tgt}2${src}.mtout
+```
 
 ### Acknowledgement:
 
