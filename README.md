@@ -36,7 +36,7 @@ CUDA_VISIBLE_DEVICES="$devices" fairseq-interactive \
 	> $evaldir/test.${tgt}2${src}.mtout
 ```
 
-where `$rc` and `$tgt` refers to the source and target languages respectively. And `test.$src-$tgt.$tgt.bpe` is the input file. The input file to the model should contain already pre-processed source language texts. We provided our [Truecase](https://drive.google.com/drive/folders/1zgXnGNfCFf-e7QSIeEylq_r2c5saOVtG) and [BPE](https://drive.google.com/drive/folders/1O3GcZFGEs5v91EYQuIkUIMDNYN9CuG4B) models for use. 
+where `$rc` and `$tgt` refers to the source and target languages respectively. And `test.$src-$tgt.$tgt.bpe` is the input file. The input file to the model should contain already pre-processed source language texts. We provided our [Truecase](https://drive.google.com/drive/folders/1zgXnGNfCFf-e7QSIeEylq_r2c5saOVtG) and [BPE](https://drive.google.com/drive/folders/1O3GcZFGEs5v91EYQuIkUIMDNYN9CuG4B) models for use. For more information on using the Fairseq framework, visit the github page. 
 
 ### Acknowledgement:
 
