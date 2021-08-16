@@ -14,6 +14,12 @@ We provide a detailed explanation of the dataset and some benchmark experiment i
 * Fine-tuned MT5-base models
 	* [EN-YO](https://huggingface.co/Davlan/mt5_base_eng_yor_mt)
 	* [YO-EN](https://huggingface.co/Davlan/mt5_base_yor_eng_mt)
+* Supervised
+	* [EN-YO](https://drive.google.com/drive/folders/11AFrnCJ4JUbCwAHibBVG8pQQwM0SfXAH)
+	* [YO-EN](https://drive.google.com/drive/folders/1oWUdYN38OcMfffQmaIJ4Sgi28R3KnFG4)
+* Semi-supervised
+	* [EN-YO](https://drive.google.com/drive/folders/1dXbBtilyd77SEH_bMbkVtO3Y5yE6W6c7)
+	* [YO-EN](https://drive.google.com/drive/folders/1Pr24Ectz2iU1LtopTI6xIPG1h1PxXd9a)
 
 ### Acknowledgement:
 
