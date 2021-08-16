@@ -20,7 +20,8 @@ We provide a detailed explanation of the dataset and some benchmark experiment i
 * Semi-supervised
 	* [EN-YO](https://drive.google.com/drive/folders/1dXbBtilyd77SEH_bMbkVtO3Y5yE6W6c7)
 	* [YO-EN](https://drive.google.com/drive/folders/1Pr24Ectz2iU1LtopTI6xIPG1h1PxXd9a)
-These two models were trained using Fairseq. Therefore to generate translations using these models, you need to have installed Fairseq. 
+
+Supervised and Semi-supervised are the models C4+Transfer and C4+Transfer+BT respectively. These two models were trained using Fairseq(https://github.com/pytorch/fairseq). Therefore to generate translations using these models, you need to have installed Fairseq. 
 
 ```
 CUDA_VISIBLE_DEVICES="$devices" fairseq-interactive \
