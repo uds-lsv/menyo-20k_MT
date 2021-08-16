@@ -21,7 +21,7 @@ We provide a detailed explanation of the dataset and some benchmark experiment i
 	* [EN-YO](https://drive.google.com/drive/folders/1dXbBtilyd77SEH_bMbkVtO3Y5yE6W6c7)
 	* [YO-EN](https://drive.google.com/drive/folders/1Pr24Ectz2iU1LtopTI6xIPG1h1PxXd9a)
 
-Supervised and Semi-supervised are the models C4+Transfer and C4+Transfer+BT respectively. These two models were trained using Fairseq(https://github.com/pytorch/fairseq). Therefore to generate translations using these models, you need to have installed Fairseq. 
+Supervised and Semi-supervised are the models C4+Transfer and C4+Transfer+BT respectively. These two models were trained using [Fairseq](https://github.com/pytorch/fairseq). Therefore to generate translations using these models, you need to have installed Fairseq. 
 
 ```
 CUDA_VISIBLE_DEVICES="$devices" fairseq-interactive \
@@ -35,6 +35,8 @@ CUDA_VISIBLE_DEVICES="$devices" fairseq-interactive \
 	| grep -P "D-[0-9]+" | cut -f3 \
 	> $evaldir/test.${tgt}2${src}.mtout
 ```
+
+where `$rc` and `$tgt` refers to the source and target languages respectively. And `test.$src-$tgt.$tgt.bpe` is the input file. The input file to the model should contain already pre-processed source language texts. We provided our [Truecase](https://drive.google.com/drive/folders/1zgXnGNfCFf-e7QSIeEylq_r2c5saOVtG) and [BPE](https://drive.google.com/drive/folders/1O3GcZFGEs5v91EYQuIkUIMDNYN9CuG4B) models for use. 
 
 ### Acknowledgement:
 
