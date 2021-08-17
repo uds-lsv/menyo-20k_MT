@@ -8,7 +8,7 @@ MENYO-20k is a multi-domain parallel dataset with texts obtained from news artic
 For non-commercial use because some of the data sources like [Ted talks](https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy) and [JW news](https://www.jw.org/en/terms-of-use/#link0) requires permission for commercial use. 
 
 #### Paper:
-We provide a detailed explanation of the dataset and some benchmark experiment in our [paper](https://arxiv.org/abs/2103.08647)
+We provide a detailed explanation of the dataset and some benchmark experiments in our [paper](https://arxiv.org/abs/2103.08647)
 
 #### Models
 * Fine-tuned MT5-base models
