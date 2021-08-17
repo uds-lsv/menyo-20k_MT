@@ -14,6 +14,29 @@ We provide a detailed explanation of the dataset and some benchmark experiment i
 * Fine-tuned MT5-base models
 	* [EN-YO](https://huggingface.co/Davlan/mt5_base_eng_yor_mt)
 	* [YO-EN](https://huggingface.co/Davlan/mt5_base_yor_eng_mt)
+* Supervised
+	* [EN-YO](https://drive.google.com/drive/folders/11AFrnCJ4JUbCwAHibBVG8pQQwM0SfXAH)
+	* [YO-EN](https://drive.google.com/drive/folders/1oWUdYN38OcMfffQmaIJ4Sgi28R3KnFG4)
+* Semi-supervised
+	* [EN-YO](https://drive.google.com/drive/folders/1dXbBtilyd77SEH_bMbkVtO3Y5yE6W6c7)
+	* [YO-EN](https://drive.google.com/drive/folders/1Pr24Ectz2iU1LtopTI6xIPG1h1PxXd9a)
+
+Supervised and Semi-supervised are the models C4+Transfer and C4+Transfer+BT respectively. These two models were trained using [Fairseq](https://github.com/pytorch/fairseq). Therefore to generate translations using these models, you need to have installed Fairseq. 
+
+```
+CUDA_VISIBLE_DEVICES="$devices" fairseq-interactive \
+	$DATADIR/$bpename \
+	--path $model/$checkpoint \
+	--beam 5 --source-lang $tgt --target-lang $src \
+	--buffer-size 2048 \
+	--max-sentences 64 \
+	--remove-bpe
+	< $BPEDIR/$bpename/test/test.$src-$tgt.$tgt.bpe \
+	| grep -P "D-[0-9]+" | cut -f3 \
+	> $evaldir/test.${tgt}2${src}.mtout
+```
+
+where `$rc` and `$tgt` refers to the source and target languages respectively. And `test.$src-$tgt.$tgt.bpe` is the input file. The input file to the model should contain already pre-processed source language texts. We provided our [Truecase](https://drive.google.com/drive/folders/1zgXnGNfCFf-e7QSIeEylq_r2c5saOVtG) and [BPE](https://drive.google.com/drive/folders/1O3GcZFGEs5v91EYQuIkUIMDNYN9CuG4B) models for use. For more information on using the Fairseq framework, visit the github page. 
 
 ### Acknowledgement:
 
