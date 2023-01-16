@@ -1,0 +1,193 @@
+Unit 1: What is Creative Commons?
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+Creative Commons is a set of legal tools, a nonprofit organization, as well as a global network and a movement — all inspired by people’s willingness to share their creativity and knowledge, and enabled by a set of open copyright licenses.
+Creative Commons began in response to an outdated global copyright legal system. 
+CC licenses are built on copyright and are designed to give more options to creators who want to share. 
+Over time, the role and value of Creative Commons has expanded. This unit will introduce you to where CC came from and where it is headed.
+This unit has two sections:
+1.1 The Story of Creative Commons
+1.2 Creative Commons Today 
+There are also additional resources if you are interested in learning more about any of the topics covered in this unit. 
+Note: Completing the CC Certificate does not entitle learners to provide legal advice on copyright, fair use / fair dealing or open licensing. 
+The content in this course and the information Certificate facilitators share is also not legal advice. 
+While you should not share legal advice to others based on course content, you will develop a high level of expertise upon completion of this course. 
+You will learn a lot about copyright, open licensing and open practices in various communities. 
+Upon graduation, you should feel comfortable sharing the facts about copyright and open licensing, case studies and good open practices.
+1.1 The Story of Creative Commons
+To understand how a set of copyright licenses could inspire a global movement, you need to know a bit about the origin of Creative Commons.
+Learning Outcomes
+Retell the story of why Creative Commons was founded
+Identify the role of copyright law in the creation of Creative Commons 
+Big Question / Why It Matters 
+What were the legal and cultural reasons for the founding of Creative Commons? 
+Why has CC grown into a global movement?
+CC’s founders recognized the mismatch between what technology enables and what copyright restricts, and they provided an alternative approach for creators who want to share their work. 
+Today that approach is used by millions of creators around the globe. 
+Personal Reflection / Why It Matters to You    
+When did you first learn about Creative Commons? 
+Think about how you would articulate what CC is to someone who has never heard of it. 
+To fully understand the organization, it helps to start with a bit of history.
+Acquiring Essential Knowledge
+The story of Creative Commons begins with copyright. 
+You’ll learn a lot more about copyright later in the course, but for now it’s enough to know that copyright is an area of law that regulates the way the products of human creativity are used - like books, academic research articles, music, and art. 
+Copyright grants a set of exclusive rights to a creator, so that the creator has the ability to prevent others from copying and adapting her work for a limited time. 
+In other words, copyright law strictly regulates who is allowed to copy and share with whom.
+The internet has given us the opportunity to access, share, and collaborate on human creations (all governed by copyright) at an unprecedented scale. 
+The sharing capabilities made possible by digital technology are in tension with the sharing restrictions embedded within copyright laws around the world.
+Creative Commons was created to help address the tension between creator’s ability to share digital works globally and copyright regulation. 
+The story begins with a particular piece of copyright legislation in the United States. 
+It was called the Sonny Bono Copyright Term Extension Act (CTEA), and it was enacted in 1998. 
+It extended the term of copyright for every work in the United States—even those already published—for an additional 20 years, so the copyright term equaled the life of the creator plus 70 years. 
+(This move put the U.S. copyright term in line with some other countries, though many more countries remain at 50 years after the creator’s death to this day.)
+(Fun fact: the CTEA was commonly referred to as the Mickey Mouse Protection Act because the extension came just before the original Mickey Mouse cartoon, Steamboat Willie, would have fallen into the public domain.)
+“Larry Lessig giving #ccsummit2011 keynote”
+Photo from Flickr
+Author: DTKindler Photo
+CC BY 2.0 Unported
+Stanford Law Professor, Lawrence Lessig, believed this new law was unconstitutional. 
+The term of copyright had been continually extended over the years. 
+The end of a copyright term is important—it marks the moment when a work moves into the public domain, whereupon everyone can use that work for any purpose without permission. 
+This is a critical part of the equation in the copyright system. 
+All creativity and knowledge build on what came before, and the end of a copyright term ensures that copyrighted works eventually move into the public domain and thus join the pool of knowledge and creativity from which we can all freely draw to create new works.
+The new law was also hard to align with the purpose of copyright as it is written into the U.S. Constitution—to create an incentive for authors to share their works by granting them a limited monopoly over them. 
+How could the law possibly further incentivize the creation of works that already existed? 
+Lessig represented a web publisher, Eric Eldred, who had made a career of making works available as they passed into the public domain. 
+Together, they challenged the constitutionality of the Act. 
+The case, known as Eldred v. Ashcroft, went all the way to the U.S. Supreme Court. Eldred lost. 
+Inspired by the value of Eldred’s goal to make more creative works freely available on the internet, and responding to a growing community of bloggers who were creating, remixing and sharing content, Lessig and others came up with an idea. 
+They created a nonprofit organization called Creative Commons and, in 2002, they published the Creative Commons licenses—a set of free, public licenses that would allow creators to keep their copyrights while sharing their works on more flexible terms than the default “all rights reserved.” 
+Copyright is automatic, whether you want it or not. 
+And while some people want to reserve all of their rights, many want to share their work with the public more freely. 
+The idea behind CC licensing was to create an easy way for creators who wanted to share their works in ways that were consistent with copyright law.
+From the start, Creative Commons licenses were intended to be used by creators all over the world. 
+The CC founders were initially motivated by a piece of U.S. copyright legislation, but similarly restrictive copyright laws all over the world restricted how our shared culture and collective knowledge could be used, even while digital technologies and the internet have opened new ways for people to participate in culture and knowledge production. 
+Watch this short video, A Shared Culture, to get a sense for the vision behind Creative Commons.
+by Jesse Dylan.  CC BY-NC-SA
+Since Creative Commons was founded, much has changed in the way people share and how the internet operates. 
+In many places around the world, the restrictions on using creative works have increased. 
+Yet sharing and remix are the norm online. 
+Think about your favorite video mashup or even the photos your friend posted on social media last week. 
+Sometimes this type of sharing and remix happen in violation of copyright law, and sometimes they happen within social media networks that do not allow those works to be shared on other parts of the web. 
+In domains like textbook publishing, academic research, documentary film, and many more, restrictive copyright rules continue to inhibit creation, access, and remix. CC tools are helping to solve this problem. 
+Today Creative Commons licenses are used by more than 1.6 billion works online across 9 million websites. 
+The grand experiment that started more than 15 years ago has been a success, including in ways unimagined by CC’s founders. 
+While other custom open copyright licenses have been developed in the past, we recommend using Creative Commons licenses because they are up to date, free-to-use, and have been broadly adopted by governments, institutions and individuals as the global standard for open copyright licenses.
+In the next section, you’ll learn more about what Creative Commons looks like today—the licenses, the organization, and the movement. 
+Final remarks
+Technology makes it possible for online content to be consumed by millions of people at once, and it can be copied, shared, and remixed with speed and ease. 
+But copyright law places limits on our ability to take advantage of these possibilities. 
+Creative Commons was founded to help us realize the full potential of the internet. 
+1.2 Creative Commons Today
+As a set of legal tools, a nonprofit, as well as a global network and movement, Creative Commons has evolved in many ways over the course of its history.
+Learning Outcomes
+Differentiate between Creative Commons as a set of licenses, a movement, and a nonprofit organization 
+Explain the role of the CC Global Network 
+Describe the basic areas of work for CC as a nonprofit organization
+Big Question / Why It Matters 
+Now we know why Creative Commons was started. But what is Creative Commons today? 
+Today CC licenses are prevalent across the web and are used by creators around the world for every type of content you can imagine. 
+The open movement, which extends beyond just CC licenses, is a global force of people committed to the idea that the world is better when we share and work together. 
+Creative Commons is the nonprofit organization that stewards the CC licenses and helps support the open movement. 
+Personal Reflection / Why It Matters to You    
+When you think about Creative Commons, do you think about the licenses? 
+Activists seeking copyright reform? 
+A useful tool for sharing? 
+Symbols in circles? 
+Something else?
+Are you involved with Creative Commons as a creator, a reuser, and/or an advocate? 
+Would you like to be?
+Acquiring Essential Knowledge
+Today, the CC licenses and public domain tools are used on more than 1.6 billion works, from songs to Youtube videos to scientific research. 
+The licenses have helped a global movement come together around openness, collaboration, and shared human creativity. 
+CC the nonprofit organization, once housed within the basement of Stanford Law School, now has a staff working around the world on a host of different projects in various domains.
+We’ll take these aspects of Creative Commons—the licenses, the movement, and the organization—and look at each in turn.
+CC licenses
+CC legal tools are an alternative for creators who choose to share their works with the public under more permissive terms than the default “all rights reserved” approach under copyright. 
+The legal tools are integrated into user-generated content platforms like YouTube, Flickr, and Jamendo, and they are used by nonprofit open projects like Wikipedia and OpenStax. 
+They are used by formal institutions like the Metropolitan Museum of Art and Europeana, and individual creators. 
+For a creative take on Creative Commons and copyright, listen Won’t Lock It Down, by Jonathan “Song-A-Day” Mann about his choice to use CC licenses for his music. 
+In addition to giving creators more choices for how to share their work, CC legal tools serve important policy goals in fields like scholarly publishing and education. 
+Watch the brief video, Why Open Education Matters, to get a sense for the opportunities Creative Commons licenses create for education. 
+Collectively, the legal tools help create a global commons of diverse types of content—from picture storybooks to comics—that is freely available for anyone to use. 
+CC licenses may additionally serve a non-copyright function. 
+In communities of shared practices, the licenses act to signal a set of values and a different way of operating. 
+For some users, this means looking back to the economic model of the commons. 
+As economist David Bollier describes it, “a commons arises whenever a given community decides it wishes to manage a resource in a collective manner, with special regard for equitable access, use and sustainability.” 
+Wikipedia is a good example of a commons-based community around CC licensed content. 
+For others, the CC legal tools and their buttons express an affinity for a set of core values. 
+CC buttons have become ubiquitous symbols for sharing, openness, and human collaboration. 
+The CC logo and icons are now part of the permanent design collection at The Museum of Modern Art (MoMA) in New York City. 
+While there is no single motivation for using CC licenses, there is a basic sense that CC licensing is rooted in a fundamental belief that knowledge and creativity are building blocks of our culture rather than simple commodities from which to extract market value. 
+The licenses reflect a belief that everyone has something to contribute, and that no one can own our shared culture. 
+Fundamentally, they reflect a belief in the promise of sharing. 
+The Movement 
+Since 2001, a global coalition of people has formed around Creative Commons and open licensing.
+This includes activists working on copyright reform around the globe, policymakers advancing policies mandating open access to publicly funded educational resources, research and data, and creators who share a core set of values. 
+Most of the people and institutions who are part of the CC movement are not formally connected to Creative Commons.
+While other custom open copyright licenses have been developed in the past, we recommend using Creative Commons licenses because they are up to date, free-to-use, and have been broadly adopted by governments, institutions and individuals as the global standard for open copyright licenses.
+Creative Commons has a formal CC Global Network, which includes lawyers, activists, scholars, artists, and more, all working on a wide range of projects and issues connected to sharing and collaboration. 
+The CC Global Network has over 500 members, and over 40 Chapters around the world.
+The CC Global Network is just one player in the larger open movement, which includes Wikipedians, Mozillians, open access advocates, and many more. 
+The work of the CC Global Network is organized into what we call “Network Platforms;” think of them as working groups. 
+Anyone interested in working on a Platform can join and contribute as much or as little time and effort as they choose. 
+Read more about our Network Platforms to see if there is an area of work that interests you. If interested, please get involved! 
+Open source software is cited as the first domain where networked open sharing produced a tangible benefit as a movement that went much further than technology. 
+The Conversation's Explainer overview of other movements adds other examples, such as Open Innovation in the corporate world, Open Data (see the Open Data Commons) and Crowdsourcing. 
+There is also the Open Access movement, which aims to make research widely available, the Open Science movement, and the growing movement around Open Educational Resources.  
+Creative Commons the Organization
+A small nonprofit organization stewards the Creative Commons legal tools and helps power the open movement. 
+CC is a distributed organization, with CC staff and contractors working around the world. Contact us here. 
+Creative Commons staff in September 2017, © Creative Commons, CC BY 4.0.
+In 2016, Creative Commons embarked on a new organizational strategy based on building and sustaining a vibrant, usable commons, powered by collaboration and gratitude. 
+This is a shift to focusing not only on the number of works out there under CC licenses and available for reuse, but on the connections and collaborations that happen around that content.  
+This video introduces the new strategy (optional). 
+Guided by that strategy, organizational work loosely falls into two main buckets: 
+Licenses, Tools and Technology: 
+The CC licenses and public domain tools are the core legal tools designed and stewarded by CC. 
+While our licenses have been rigorously vetted by legal experts around the globe, our work is not done. 
+We are actively working on technical infrastructure designed to make it easier to find and use content in the digital commons. 
+We are also thinking about ways to better adapt all of CC’s legal and technical tools for today’s web. 
+Supporting the movement: 
+CC works to help people within open movements collaborate on projects and work toward similar goals. 
+Through CC’s multiple programs, we work directly with our global community—across education, culture, science, copyright reform, government policy, and other sectors—to help train and empower open advocates around the world. 
+Final remarks
+Creative Commons has grown from a law school basement into a global organization with a wide reach and a well known name associated with a core set of shared values. 
+It is, at the same time, a set of licenses, a movement, and a nonprofit organization. 
+We hope this unit helped give you a sense for what the organization does and, even more importantly, how you can join us in our work. 
+Additional resources
+More information about CC history
+How I Lost the Big One by Lawrence Lessig. 
+Lawrence Lessig describes the details of the Eldred case 
+Excerpt from Free Culture by Lawrence Lessig. CC BY-NC 1.0
+Excerpt that provides more background on the Eldred case
+More information about CC and open licensing
+Why Open Education Matters, by David Blake @ Degreed. CC BY 3.0
+A brief video that explains how open education is enabled by the internet,  why it is valuable for the global community, and how Creative Commons licenses enable open education
+We Copy Like We Breathe, by Cory Doctorow. 
+A keynote address that explains copying and how the internet has changed the space of copying. 
+This frames the need for adequate licensing as we copy and share online
+We Need to Talk About Sharing, by Ryan Merkley @ Creative Commons. CC BY-SA 3.0
+A brief discussion about the value of sharing, how sharing can improve communities, and how Creative Commons enables sharing
+More information about the commons
+How Does the Commons Work by The Next System Project, adapted from Commoning as a Transformative Social Paradigm. CC BY 3.0
+Video explaining how a commons works, adapted from economist David Bollier’s explanation of what a commons is, and threats to the commons.
+The Commons Short and Sweet by David Bollier. CC BY 3.0
+A brief blog post explanation of a commons, some problems of a commons, and what enables a commons to occur
+The Wealth of the Commons: A World Beyond Market and State by David Bollier & Silke Helfrich. CC BY-SA 3.0
+A book that seeks many voices to gather descriptions of what types of resources exist in the commons, geographic circumstances relating to the commons, and the political relevance of the commons 
+Enclosure Wikipedia Article. CC BY-SA 3.0
+An article describing enclosure, which is an issue that presents itself in a commons
+The Political Economy of the Commons by Yochai Benkler. CC BY 3.0
+A brief article that explains how common infrastructure can sustain the commons
+The Tragedy of the Commons by Boundless & Lumen Learning
+A section of an economics course textbook that explains the economic principles underlying potential threats to the commons
+Debunking the Tragedy of the Commons by On the Commons. CC BY-SA 3.0
+A short article describing how the tragedy of the commons can be overcome
+Elinor Ostrom’s 8 Principles for Managing a Commons by On the Commons. CC BY-SA 3.0
+A short history of economist Elinor Ostrom and the 8 principles for managing a commons that she has established
+More information about other open movements
+Free Culture Game by Molle Industria. CC BY-NC-SA 3.0
+A game to help understand the concept of free culture
+Participant Recommended Resources
+CC Certificate participants’ recommended many additional resources through Hypothes.is annotations on the Certificate website.  
+While Creative Commons has not vetted these resources, we wanted to highlight participant’s contributions here: 

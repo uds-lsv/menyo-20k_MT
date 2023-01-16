@@ -1,0 +1,139 @@
+Digital ID in Nigeria: A case study
+Introduction
+In 2019 The Engine Room worked with in-country researchers to explore digital ID systems in five regions. 
+The goal of this project was to better understand the true effect that digital ID systems have on the local populations that operate within them. 
+Our research in Nigeria consisted of six in-depth interviews with key informants in Abuja and online, as well as interviews and focus group discussions with a diverse group of citizens, including internally displaced persons, people with disabilities, people living in rural areas and affluent areas, and civil society organisations. 
+This primary research was conducted between February and April 2019. 
+All quotations from key informant interviews and focus group discussions come from the field research phase during this period. 
+More information on the methodology can be found in the global report.[ See The Engine Room. (2020). Understanding the lived effects of digital ID: A multi-country report.] 
+This project aims to understand the lived experiences of individuals, not to reflect representative samples of each population. 
+We cannot necessarily extrapolate one person’s experience to the norm – though there are times when every person interviewed experienced an aspect of a system the same way – but each experience gives us insight into how a diverse range of people is impacted by digital infrastructure and protocols.  
+Digital ID System
+Currently, at least 13 federal agencies and several state agencies offer ID services in Nigeria. 
+Each agency collects the same biometric information from individuals, overlapping efforts within government agencies at a high fiscal cost to the country. 
+Although the Nigerian government aimed to integrate all of these systems as far back as 2014, progress has been slow. 
+The initial roll-out of the card, often referred to as an ‘eID’, was marred by a partnership with MasterCard, which some criticised as a commercial venture that branded citizen data.
+[ See, for example, Branding Nigeria: MasterCard-backed I.D. is also a debit card and a passport, by Alex Court (2014, September 25), CNN. 
+And Nigeria’s Orwellian biometric ID is brought to you by MasterCard, by Siobhan O’Grady (2014, September 3), Foreign Policy. 
+By October 2019 only 19% of Nigerians had registered for the national digital ID designed to replace the siloed ID systems. [ Sanni, K. (2019, OCtober 20). National ID card is free, but only 19% Nigerians are registered. Premium Times.] 
+To reach more people, the National ID Management Commission (NIMC) of Nigeria has collaborated with the World Bank to develop an ecosystem model designed to increase coverage of this single national ID by leveraging the public and private sectors to become enrollment partners with NIMC. 
+A World Bank informant stated:
+The idea is that when you go to register for a SIM card and you don't already have a national ID, at that same registration process, you would be registered for the national ID. 
+Same thing with the bank. 
+Same thing, for example, with any kind of social programs, even health programs. 
+The Nigerian government aims to use the NIMC ID to provide a wide range of services, including social safety net, financial inclusion, digital payments, employee pensions, agricultural services, healthcare, education, skill development and employment, law enforcement, land reforms, elections and census. 
+[ National ID Management Commission. (2017 June). A strategic roadmap for developing digital identification in Nigeria.] 
+Both adults and children will receive the ID. At registration centres, staff collect each person’s demographic data, photographs and 10 fingerprints before giving out a “microprocessor chip-based general multi-purpose identity cardto those aged 16 and older along with a national identification number (NIN).
+Lived Experiences 
+The interviews and focus groups that were conducted in Nigeria in February-April 2019 provide insight on the lived experiences of individuals interacting with the described systems. 
+Since there is very little research on people’s experiences with digital ID systems, this qualitative data is useful for understanding the reality for some individuals. 
+Some of these experiences may contradict official reports, but it is critical to understand that all residents of Nigeria do not have one unified experience. 
+We aim for these learnings to become part of the broader discussion on digital ID solutions in national contexts. 
+Low levels of public awareness
+People we spoke to in Nigeria reported a general lack of awareness around the functions of the national ID, why so much data is collected and how data is stored. 
+Our research showed that enrolment for the NIMC digital ID program is low because most people do not know the purpose of the card. 
+Often, those who have registered did so simply because they could not access some service without a NIN or because they saw people queuing and, in the case of low-income individuals and especially those in internally displaced persons camps, hoped to receive some benefit such as food or compensation. 
+Furthermore, some interviewees claimed that the government wants people to enrol more quickly and is threatening to withhold other key documents to make it happen. 
+"We were threatened that if you don’t have a national ID card, you won’t be able to renew your international passport, that’s why we went to register" said one interviewee. 
+We were told that this harassment encouraged some Nigerians to go ahead and complete the registration process. 
+Little to no public consultation 
+The World Bank’s digital ID development and implementation plan with the Nigerian government describes the importance of public engagement, including a stakeholder engagement plan with special attention to state governments, “regular communication with the general population” and “formal consultations with vulnerable groups”.
+While some interviewees mentioned hearing about the new ID on television and the radio, most of the interviews and focus groups demonstrated no knowledge of any public consultation. 
+One focus group of people with disabilities had heard about a World Bank meeting (and the World Bank confirmed that they did consult people with disabilities) but did not know anyone who was present. 
+The leader of this group stated, "If our voices were heard and we were seated at the table, maybe the content and the process won’t be so faulty. There’s no sense of ownership". 
+This lack of “ownership” is a fundamental problem for a government agency aiming to register approximately 200 million people. 
+In fact, more than 700,000 people who have registered have not even picked up their card.
+This experience also speaks to the need to raise public awareness about the consultations that occurred. 
+People may still have feedback if they see that their needs are not fully addressed, but they will be more confident in the system knowing that decision makers reached out to their broader community and will be more likely to have faith that their complaints will be heard.  
+Barriers to registration and use 
+In Nigeria registration barriers most affect people with low income, people from rural communities and people with disabilities. 
+Everyone we spoke to said the registration process is extremely long. 
+Whereas wealthier people can afford to pay for for registration officers to come to them or pay to, as interviewees said, "jump the queue" even though these bribes are supposedly not allowed, people with limited resources stand in registration centre queues for anywhere from hours to days. 
+One key informant described the process as “very, very difficult. 
+It’s long and the centres are extremely busy. People are queuing for several days”. 
+Queuing all day at registration centres is even more complicated for people who have to travel longer distances to reach centres. 
+Travel costs money and may mean missed work. 
+Additionally, the registration process hinders participation from people in rural communities whose religion dictates conservative gender norms. 
+Despite the government’s goals of financial inclusion and aid distribution, our research shows that these IDs have not reached many people in rural areas in need of aid. 
+Many of the registration locations are not accessible to people with disabilities. 
+A blind man said he was given a form to fill out and had to ask another person waiting to register to fill it out for him. 
+A disabled woman spoke of waiting in line to collect her card with no place to sit. 
+After more than an hour, her legs were failing her and she asked for help, but no one responded due to the noise of people in the room. 
+She had to yell to get the attention of the registration staff. 
+Another participant in a focus group for people with disabilities reported similar experiences: “[Wheelchair] riders will tell you ‘from the gate we got discouraged and turned back’, the deaf will tell you that ‘some officials will just give you attitude; they are just not patient enough to understand’”. 
+This person then shared what he would do if he were in charge:
+We are the poorest of the poorest, so I would not want people to come five times simply because they want to register. 
+I will make sure when I see someone with disability, they are attended to first mostly because I don’t know where they have gotten money to pay for transport... 
+I will make sure that whenever a person with disability is in the premises, he or she will be called upon and be attended to so that they will not have to be wasting transport in coming every day for the registration.
+Additionally, there is confusion around the recognition of disability. 
+Registration forms ask people if they have disabilities but do not enable them to specify the type. 
+The card itself does not include any information on disability, which caused disabled people we interviewed to be concerned about misunderstandings. 
+A deaf person, for example, expressed concern that the card did not inform people of this disability. 
+He was almost arrested at a military checkpoint, where soldiers suspected him of being a Boko Haram member because he was unable to respond to their questions. 
+His ID, which did not communicate his disability, was useless in this instance. 
+What saved him was the sudden appearance of someone who recognised him. 
+It is not clear why information about disability is collected and how it is used if it is not then displayed on the card itself or when scanned. 
+Finally, we spoke to several people who still had not received their IDs after several months, and even years, of waiting. 
+A woman who was displaced due to the Boko Haram insurgency registered in 2016 and only had a paper document to show for it; she was still waiting for her plastic ID. 
+Another forcibly displaced person told us each time he went to retrieve his card the computer was not functioning properly or the monitor was down. 
+Eventually, he lost his SIM card, leaving the government no way to let him know his card is ready. 
+Several months after our field research phase ended, NIMC announced on Twitter in October 2019 that there would be a fee of NGN 3000[ At the time of writing (November 2019), this amount was equal to EUR 7.50.] per person to renew the national digital ID.[ Channels Television. (2019, October 15). 
+Nigerians fume as NIMC attaches N3,000 charges to national ID renewal.
+This development was met with ire and frustration, especially from people who have waited years and still have not received their ID card.
+Our research shows the many ways this system has already excluded people, and this fee will only compound that problem and exacerbate existing inequalities. 
+Lack of informed consent 
+People we interviewed in Nigeria said there is never any mention of an informed consent process. 
+Simply showing up at a registration centre is seen as giving consent. 
+In fact, the widespread assumption of presence equalling consent led at least one interviewee to refer to the researcher’s explanation of informed consent as “demanding for special consent” – the very premise of ‘informed consent’ was seen by participants as extraordinary and funny because consent is not usually collected. 
+This view was so widely held that there was rarely further discussion.
+This finding is in sharp contrast to best practices around data collection. 
+Obtaining informed consent is widely regarded as a necessary step in identification systems in order for people’s rights to be respected, and it must involve actually asking the person registering for their permission before collecting data, especially biometric data. 
+Furthermore, lack of informed consent can be linked to the lack of “a sense of ownership” described above. 
+When processes designed for digital ID systems fail to respect people’s rights and to enable them to make decisions about their data, it harms the relationship of trust between people and governing institution and prevents shared ownership.  
+Data protection
+Nigeria’s new digital ID system will be used across several government agencies as well as many private sector companies. 
+Key informants told us there is already a high rate of non-consensual data sharing, including the selling of data sets between government agencies and financial institutions, telecommunications companies, and third-party marketers. 
+One interviewee stated, “Yes, banks have access to my information... and Nigeria Ports Authority have access to our information”. 
+Many focus group participants believe that their data is not safe with the government and private sector, but they hand it over anyway due to lack of choice. 
+The high rate of cybercrime in Nigeria has many convinced that people working in banks give thieves access to their data. 
+A focus group participant stated, “I think that there is a fear that this information could be shared because the issue of cyber crime in Nigeria could not have been successful if not in collaboration with the in house [staff]”. 
+Still, members of civil society told us that data protection is generally not considered much of an issue by the public. 
+Due to the high rate of poverty in the country, the average citizen is not concerned about what the government wants to do with their data. 
+They are more worried about surviving and providing for their families, and privacy is seen by many as a luxury concern. 
+As a key informant said, “[The government is] collecting [data] because nobody is complaining about the protection law.”
+Focus groups with internally displaced persons revealed a combination of gratitude for the assistance and opportunities available through digital IDs and concern about privacy and the purpose of data collection by the government and the World Food Programme. 
+One woman said, “I don’t really know what it is being used for. 
+Sometimes I am afraid that maybe my name and pictures are being used for diabolical reasons, but I always pray to God for safety.” 
+Repeated photographs (likely for purposes other than digital ID) were a serious concern. 
+Two others in the same focus group complained about people taking their photographs daily but never following through on promises:
+The pictures they snap are always too much, and they will always say that after taking the pictures that they will teach us some various skills and set us up for business. 
+But at the end of the day they will take everything back after snapping the pictures and they will not teach us those skills that they promised again. 
+These experiences with data collection, especially with photographs, by powerful institutions like the Nigerian government and the World Food Programme, seem to have increased individual attention to data, especially among particularly vulnerable populations.  
+Fortunately, Nigeria’s National Information Technology Development Agency adopted the Nigeria Data Protection Regulation in January 2019.
+As we have seen with new data protection legislation in other parts of the world,[ For example, our Thailand case study notes GDPR-inspired legislation.] this regulation incorporates some components of the European Union’s General Data Protection Regulation.
+In a country with significant digital security problems where data is commonly shared without consent success will depend on education and enforcement.
+Civil society
+The lack of public interest, and therefore, public pressure, makes advocacy in the digital ID space difficult. 
+Nigerian civil society is fairly small and poorly funded, and it is difficult for organisations to take on new issues when those they already address are major problems people struggle with on a daily basis, such as poverty. 
+In a focus group discussion with civil society representatives, one participant summed up the problem:
+I feel that we should be more engaged on those issues, but the reality is that we are not part of it simply due to capacity and resources. 
+For me, it's not only about not wanting to be all things to all men; we simply don't have the capacity to be all things to all men.
+These challenges leave digital rights organisations to carry the burden of pushing for change from a powerful government. 
+Paradigm Initiative, a digital rights organisation, has been engaged on the issue of digital ID going as far back as the Mastercard partnership with the government. 
+A civil society interviewee reported:
+[C]ivil society organisations in themselves are too small to take on government individually, and even though Paradigm Initiative has taken that battle, you’ve not seen the entire CSO sector rally in support so as to make a bit more impact. 
+So you have one small organization with tiny resources fighting this Goliath. 
+The best you can do is just throw up some issues. 
+They can bury you in court — they have all the resources – if they really don’t want to provide that information.
+Still, Paradigm Initiative was able to raise awareness about the risks of a foreign corporation having access to the NIMC database and has since pushed for the Digital Rights and Freedom Bill which remains unsigned.
+Conclusions and recommendations
+Given the overburdened state of civil society in Nigeria, it would be good to see regional and international organisations, advocates and funders invest resources into a wide range of civil society organisations in the country.
+Supporting civil society in understanding how digital ID intersects with their issue areas and why it is important for the people they serve can make a difference, but these groups also need the financial and team capacity to incorporate digital ID concerns into their work. 
+This support can create a network of activists and organisations taking on issues such as consent and data protection with Paradigm Initiative leading the way, thereby strengthening work that has already started and increasing pressure on the government in a way a single organisation cannot accomplish.
+The most vital issues we found in Nigeria revolve around access and information. 
+The Nigerian government’s aim of financial inclusion cannot be met when many of the very communities they seek to include face barriers to registration. 
+Advocacy strategies could reflect the needs of the wide range of communities served by civil society from people living in poverty to people with disabilities. 
+Tackling the renewal fee and costs associated with registration will be paramount for the large number of Nigerians with few financial resources. 
+Registration centres that are accessible for people with disabilities and people living in rural communities, especially women who, for cultural reasons, may not feel comfortable waiting next to men, are critical to reaching the most marginalised populations.
+Finally, Paradigm Initiative’s work on the Digital Rights and Freedom Bill is paramount. 
+Any investment in digital ID improvements should prioritise advocating for data protection and ensuring the rights of Nigerians.

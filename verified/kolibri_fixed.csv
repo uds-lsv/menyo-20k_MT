@@ -1,0 +1,357 @@
+English,Yoruba
+The requested channel does not exist on the content server,Ìkànnì náà tí o béèrè fún kò sí lóri àpèsè àkóónú
+Unknown format,Fọ́máàtì yìí kò sí
+There was a network error.,Ìńtánẹ́ẹ̀tì ń ṣe ségesège.
+Unsupported browser,Ìlujá ìwádìí yìí kò le ṣiṣẹ́
+No appropriate redirect pages found. ,Kò sí àwọn ojú ewé tí ò ń wá. 
+It is likely that Kolibri is badly configured,Ó ṣeé ṣe kó jẹ́ pé ìkànnì Kolibri kò ṣiṣẹ́ bó ṣe yẹ
+Change Password,Ṣàyípadà ọ̀rọ̀-ìfiwọlé
+Which facility do you want to sign in to?,Irúfẹ́ ohun èlò wo ni o fẹ́ wọlé sí?
+Explore without account,Ṣàwárí láìní ìṣàmúlòo
+Kolibri is an e-learning platform. ,Ìkànnì ìkẹ́kọ́ lórí ayélujára ni Kolibri jẹ́. 
+You can also use your Kolibri account to log in to some third-party applications.,O tún le fi ìṣàmúlòo Kolibri rẹ wọlé sí àwọn àkántì míràn.
+Powered by Kolibri,Kolibri ló ṣe onígbọ̀wọ́ èyí
+Password is required for coaches and admins,A nílò ọ̀rọ̀-ìfiwọlé fún àwọn olùkọ́ àti alákòóso
+Incorrect username or password,Orúkọ ìdánimọ̀ tàbí ọ̀rọ̀-aṣínà kò tọ́
+Learn more about usage and privacy,kọ́ ẹ̀kọ́ díẹ̀ síi nípa ìlò àti ibi àṣírí
+Step 1 of 2,Ìgbésẹ̀ 1 nínú 2
+Step 2 of 2,Ìgbésẹ̀ 2 nínú 2
+Please select the default language for Kolibri,Jọ̀wọ́ yan èdè àkùnàyàn fún Kolibri
+"If retrying doesn't work, restart the server and refresh the page.","Bí ìgbìyànjú ò bá ṣiṣẹ́, tún apèsè tàn kí o tún ojú ewé sọdọ̀tun."
+Something went wrong,Ohun kan ò tọ́
+Please check your server connection and retry.,Jọ̀wọ́ ṣàyẹ̀wò àpèsè ìsopọ̀ rẹ kí o tún gbìyànjú.
+Facility cannot be empty,Ohun èlò kòle ṣófo
+Facility name,Orúkọ ohun èlò
+Facility name cannot be more than 50 characters,Orúkọ ohun èlò kò le ju àádọ́ta (50) ẹyọ ọ̀rọ̀
+"A facility is the location where you are installing Kolibri, such as a school, training center, or a home.","Ohun-èlò ni ibi tí o ń ṣàgbékalẹ̀ Kolibri si, bíi ilé-ẹ̀kọ́ tàbí ibi ìkọ́ni, tàbí Ilé."
+What kind of facility are you installing Kolibri in?,Irúfẹ́ ohun-èlò wo lo fẹ́ fi ṣe ìṣàgbékalẹ̀ Kolibri?
+"Homeschooling, supplementary individual learning, and other informal use","Ìgbélé kàwé, àfikún ìkẹ́kọ̀ọ́ olúkúlùkù, àti lílò tí kìí í ṣe ti gbogbo gbòò"
+This allows anyone to view resources on Kolibri without needing to make an account,Èyí fi ààyè gba ẹnikẹ́ni láti rí àwọn ohun àmúlò t'ó wà lórí Kolibri láì ní ìṣàmúlò
+No. Users must have an account to view resources on Kolibri,Rárá. Ẹnikẹ́ni t'ó bá fẹ́ rí àwọn ohun àmúlò iṣẹ́ tó wà lórí Kolibri gbọ́dọ̀ ṣèdá ìṣàmúlò
+Responsibilities as an administrator,Àwọn ojúṣe gẹ́gẹ́ bí i alábòójútó
+Enable passwords on learner accounts?,Fi àyè gba ọ̀rọ̀-aṣínà ìṣàmúlò akẹ́kọ̀ọ́?
+No. Learner accounts can sign in with just a username,Rárá. Ìṣàmúlò akẹ́kọ̀ọ́ le wọlé pẹ̀lu orúkọ ìdánimọ̀  nìkan
+Helpful for younger learners or when you are not concerned about account security,Ó wúlò fún àwọn akẹ́kọ̀ọ́ ti o ṣẹ̀ṣẹ̀ ń dìde tàbí nígbàtí o kò bá ko'bi ara sí ètò àbò ìṣàmúlò
+"This account allows you to manage the facility, resources, and user accounts on this device","Ìṣàmúlò yìí fi àyè gbà ọ́ láti ṣe àbójútó ohun èlò, awon èròjà iṣẹ́ , àti awon ìṣàmúlò olùṣàmúlò tó ń bẹ lórí ẹ̀rọ yí"
+Important: please remember this account information. ,Pàtàkì: jọ̀wọ́ rántí ìwífún nípa ìṣàmúlò rẹ. 
+Write it down if needed,Kọ ọ́ sílẹ̀ tí ó bá yẹ
+Register facility,Forúkọ ohun-èlò sílẹ̀
+Create new class,Dá yàrá ìkẹ́kọ̀ọ́ tuntun sílẹ̀
+Delete class,Pa yàrá ìkẹ́kọ̀ọ́ rẹ́
+Manage class coaches and learners,Ṣàkóso àwọn olùkọ́ yàrá ìkẹ́kọ̀ọ́ àti àwọn akẹ́kọ̀ọ́
+Edit class name,Ṣàtúnṣe orúkọ yàrá ìkẹ́kọ̀ọ́
+Enroll learners,Forúkọ àwọn akẹ́kọ̀ọ́ sílẹ̀
+You don't have any assigned coaches,O kò ní àwọn olùkọ́ èyíkèyí tí a yàn
+You don't have any enrolled learners,O kò ní àwọn akẹ́kọ̀ọ́ tí ó forúkọsílẹ̀
+All users are already enrolled in this class,Gbogbo àwọn olùṣàmúlò ni a ti forúkọ wọn sílẹ̀ ní yàrá ìkẹ́ẹ̀kọ́ yìí
+Search for a user,Ṣàwarí olùṣàmúlò kan
+Rename class,Yí orúkọ yàrá ìkẹ́kọ̀ọ́ pa dà
+Reset to defaults,Dá a pa dà sí ìbẹ̀rẹ̀
+Session logs,Àwọn àkọsílẹ̀ iṣẹ́ sáà
+Individual visits to each resource,Ìbẹ̀wò oníkálukú sí ẹyọ àkóónú kọ̀ọ̀kan
+Download is not supported on Android,Ṣègbàsílẹ̀ ni a kò faramọ́ lóri Android
+No logs are available to download.,Kòsí àkọsílẹ̀ iṣẹ́ fún gbígbà ẹ̀dà àkápọ̀-iṣẹ́
+Export usage data,Ṣàgbéjáde ìwífún-alálàyé lílò
+Summary logs,Àkótán àwọn àkọsílẹ̀ iṣẹ́
+A user may visit the same resource multiple times.,Olùṣàmúlò lè lọ sí ohun àmúlò kan náà ní ọ̀pọ̀ ìgbà. 
+"This file records the total time and progress each user has achieved for each resource, summarized across possibly more than one visit. ","Àkápọ̀-iṣẹ́ yíì ń ṣàkọsílẹ̀ àkókò àti ìlọsíwájú tí olùṣàmúlò kọ̀ọ̀kan ti ní fún eyọ àkoonú kọ̀ọ̀kan, ìkọníṣókí káàkiri ìbẹwò tí o ju ẹ̀ẹ̀kan."
+Anonymous usage is not included.,Ìṣàmúlò àìmọ̀ ni a kò kọ síbẹ̀.
+Delete user,Pa olùṣàmúlò rẹ́
+All data and logs for this user will be lost.,Gbogbo ìwífún-alálàyé àti àkọsílẹ̀ ìṣe fún olùṣàmúlò yìí yo sọnù.
+Allow users to access resources without signing in,Fún àwọn aṣàmúlò ní àǹfààní láti lò àwọn ohun àmúlò iṣẹ́ láyì forúkọsílẹ̀wọlé.
+You can also configure device settings,O ní àǹfààní láti ṣàtòpọ̀ àwọn èto isẹ́ ẹ̀rọ
+Configure Facility,Ṣe àtúntò sí ohun èlò
+Allow learners and coaches to edit their full name,Fàyègba àwọn akẹ́kọ̀ọ́ àti àwọn olùkọ́ni láti ṣàtúnṣe orúkọ wọn ní kíkún
+Allow learners and coaches to change their password when signed in,Fàyègba àwọn akẹ́kọ̀ọ́ àti àwọn olùkọ́ni láti ṣàyipadà ọ̀rọ̀-ìfiwọléè nígbà tí wọ́n ti forúkọsílẹ̀wọlé
+Allow learners and coaches to edit their username,Fàyègba àwọn akẹ́kọ̀ọ́ àti àwọn olùkọ́ni láti ṣàtúnṣe orúkọ ìdánimọ̀ wọn
+Allow learners to sign in with no password,Fàyègba àwọn akẹ́kọ̀ọ́ láti wọlé láìlo ọ̀rọ̀ ọ̀rọ̀-ìfiwọléè
+Allow learners to create accounts,Jẹ́ kí àwọn akẹ́kọ̀ọ́ ṣí ìṣàmúlò
+Facility settings,Àwọn ààtò ohun èlò
+You must be signed in as an admin or super admin to view this page,O gbọ́dọ̀ wọlé bí alábòójútó tàbí ẹni tó ni ẹ̀tọ́ tó ga jù láti wo ojú-ewé yìí
+Only showing learners that are not enrolled in this class,Ń ṣàfihàn àwọn akẹ́kọ̀ọ́ tí a kò fi orúkọ wọn sílẹ̀ ní yàrá ìkẹ́kọ̀ọ́ nìkan
+View and manage your classes,Wò kí o sì ṣàkóso yàrá ìkẹ́kọ̀ọ́ rẹ
+List of classes,Àtòkọ àwọn yàrá ìkẹ́kọ̀ọ́
+Invalid token,Àmì yìí kò lẹ́sẹ̀ nílẹ̀
+Project token,Àmì iṣẹ́ àkànṣe
+Register facility,Forúkọ ohun èlò sílẹ̀
+Reset user password,Ṣàtúntò ọ̀rọ̀-aṣínà
+Most recent sync failed.,Ìmúdọ́gba ikẹ́yìn yìí kùnà.
+Can only instruct classes that they're assigned to,Lè kọ́ àwọn yàrá ìkẹ́kọ̀ọ́ tí a yàn fún wọn nìkan
+Can instruct all classes in your facility,Lè kọ́ gbogbo yàrá ìkẹ́kọ̀ọ́ inú ohun-èlò rẹ
+"Warning: By making your self a non-admin, you will be logged out after clicking ""Save"".","Ìkìlọ̀: Tí o bá sọ ara rẹ di aláì jẹ́ alábòójútó, a ó yọ ọ́ kúrò nígbì tí o bá yan ''àfipamọ́''."
+Changes saved,Ti ṣe ìfipamọ́ tán
+No users exist,Kòsí àwọn olùṣàmúlò
+Search for a user…,Ṣàwárí olùṣàmúlò kan…
+You can still access this account from the 'Users' tab.,O ṣì lè rááyèsí àkọọ́lẹ̀ yìí láti pátákó 'Olùṣàmúlò'.
+Enter fullscreen,Wọlé ní ẹ̀kúnjú-aṣàfihàn
+Exit fullscreen,Jáde ní ẹ̀kúnjú-aṣàfihàn
+Toggle search,Ṣèpapòdà ìṣàwárí Atẹ́pẹpẹlẹ́gbẹ̀ẹ́
+Loading results,Ó ń ṣe àṣàjọ àbájáde 
+No results,Kò sí àbájáde
+Search through book,Ṣe iṣàwárí nínú ìwé
+Toggle settings,Ṣèpapòdà àtòpọ̀ Atẹ́pẹpẹlẹ́gbẹ̀ẹ́
+Toggle table of contents,Ṣèpapòdà atọ́ka àkóónú Atẹ́pẹpẹlẹ́gbẹ̀ẹ́
+Sorry! Something went wrong!,Pẹ̀lẹ́! Ohun kan kò tọ́!
+We care about your experience on Kolibri and are working hard to fix this issue,A bìkítà nípa ìrírí rẹ lórí Kolibri a sì ń ṣe iṣẹ́ takuntakun láti yanjú gbogbo ìṣòro t'ó wà nílẹ̀ yìí
+You must be signed in as an admin to view this page,O gbọ́dọ̀ forúkọsílẹ̀-wọlé bí alábòójútó láti wo ojú-ewé yìí
+You must be signed in as an admin or coach to view this page,O gbọ́dọ̀ forúkọsílẹ̀-wọlé bí alábòójútó tàbí olùkọ́ọ̀ láti wo ojú-ewé yìí
+You must be signed in as a superuser or have resource management permissions to view this page,O gbọ́dọ̀ forúkọsílẹ̀-wọlé bí olùṣàmúlòàràmàndà tàbí ní àṣẹ ìṣàkóso àkoonú láti wo ojú ewé yìí
+Did you forget to sign in?,Ṣé o gbàgbé láti forúkọsílẹ̀-wọlé?
+Go to home page,Lọ́ sí ojú ewé àkọ́kọ́
+You must be signed in as a learner to view this page,O gbọ́dọ̀ forúkọsílẹ̀-wọlé bí Akẹ́kọ̀ọ́ láti wo ojú-ewé yìí
+You must be signed in to view this page,O gbọ́dọ̀ forúkọsílẹ̀-wọlé láti wo ojú-ewé yìí
+You must have super admin permissions to view this page,O gbọ́dọ̀ ní àṣẹ aṣàmúlò àràmàndà láti ní àṣẹ láti wo ojú-ewé yìí
+Provide an estimate if you are unsure.,"Bí kò bá dá ọ lójú, ṣe àfojúsùn iye tó le jẹ́."
+About providing your birth year.,Nípa pípèsè ọdún ìbí rẹ.
+Coach resource,Ohun àmúlò iṣẹ́ olùkọ́
+Device permissions,Àwọn àṣẹ ti ẹ̀rọ
+Facility coach,Akọ́ni ohun èlò
+Go back,Padà sí ẹ̀hìn
+Select all on page,Yan gbogbo ohun tí ó wà ní ojú ewé
+"Username can only contain letters, numbers, and underscores","Orúkọ ìdánimọ̀ gbọ́dọ̀ ní àwọn lẹ́tà, òǹkà, àti ìlà abẹ́ nìkan"
+View tasks,Yẹ àwọn iṣẹ́ wò
+Trying to reconnect…,Ń gbìyànjú láti tún sopọ̀…
+"This question has an error, please move on to the next question","Ìbéèrè yìí ní àṣìṣe, jọ̀wọ́ tẹ̀síwájú sí ìbéèrè tí ó kàn"
+No attempts made on this question,Kò tíì sí ìgbìyànjú kankan lórí ìbéèrè yìí
+Not started,Kò tíì bẹ̀rẹ̀
+Questions correct,Ìbéèrè tó tọ́
+Next results,Àwọn àbájáde tí ó kàn
+Previous results,Àwọn àbájáde àtẹ̀hìnwá
+Re-enter password,Tún ọ̀rọ̀-aṣínà tẹ̀
+Passwords do not match,Ọ̀rọ̀-aṣínà kò báramu
+Send an email to the developers,Fi ímeèlì ránṣẹ́ sí àwọn akèdè-iṣẹ́-àìrídìmú 
+Error details,Àwọn àlàyé àṣìṣe
+Search the community forum to see if others encountered similar issues.,Ṣèwádìí nínú àgbàjọ àpéjọ ìtàkúrọ̀sọ láti rí bóyá ẹlòmíràn ní irúfẹ́ ìsòro yìí. 
+"If unable to find anything, paste the error details below into a new forum post so we can rectify the error in a future version of Kolibri.","Tí o kò bá rí ohun tí ó jọ ọ́, lẹ kúlẹ̀kúlẹ̀ ìsòro náà sí ibí yìí nínú àpéjọ ìtàkúrọ̀sọ titun kí á le sàtúnse ìsòro náà nínú ẹ̀yà Kolibri tí yi ó jẹ́ àṣẹ̀ṣẹ̀jáde."
+"Kolibri version 0.13.0 is available! It contains major improvements to resource management, coach tools, and much more.","Ẹ̀yà Kolibri 0.13.0 ti jáde! Ó ní ìmúgbòrò àkòóso ohun àmúlò iṣẹ́, àwọn ohun olùdánilẹ́kọ̀ọ́ tí ó sunwọ̀n jù lọ àti bẹ́ẹ̀ bẹ́ẹ̀ lọ."
+Username already exists,Orúkọ olùṣàmúlò wà tẹ́lẹ̀
+Read the documentation,Ka àwọn àkọsílẹ̀
+Download and install the latest release,Gbígbà ẹ̀dà àkápọ̀-iṣẹ́ àti siṣàgbékalẹ̀ àwọn àgbéjáde tó jáde kẹ́yìn
+Welcome to the Kolibri demo site,Káàbọ̀ sí ibùdó àpẹẹrẹ Kolibri
+Explore any of the three primary user types:,Ṣàyẹ̀wò èyíkẹ̀yí nínú àwọn irúfẹ́ aṣàmúlò mẹ́ta:
+To learn more about using Kolibri in an offline context and better understand the platform:,Láti kọ́ si nípa lílo Kolibri láìsí lórí ìṣàsopọ̀ àti láti ní òye síi nípa orí pèpéle náà:
+You are not enrolled in any classes,A kò ṣe àkosílẹ̀ orúkọ rẹ sí yàrá ìkẹ́ẹ̀kọ́ kankan
+There was an error showing this item,Àṣìṣe wáyé ní ṣíṣàfihàn wúnrẹ̀n yìí
+Class assignments,Iṣẹ́ àmúrelé yàrá ìkẹ́ẹ̀kọ́
+Next resource,Ohun àmúlò iṣẹ́ tí ó kàn
+Toggle license description,Ìṣípòpadà àpèjúwe ìwé àṣẹ
+As an administrator you can import channels,"Gẹ́gẹ́ bí alábòójútó, o lè kó àwọn chánnẹ̀lì wọlé"
+No resources available,Kò sí àwọn ohun àmúlò kankan nílẹ̀
+Please ask your coach or administrator for assistance,Dákun béèrè ìrànwọ́ lọ́wọ́ olùkọ́ tàbí alákòóso rẹ
+Submit quiz,Fi ìdánwò kúkúrú sílẹ̀
+This quiz cannot be displayed because some resources were deleted,Ìdánwò kúkúrú yìí kò ṣe é fihàn nítorí a ti pa àwọn ohun àmúlò inú rẹ̀ rẹ́
+Next Steps,Ìgbésẹ̀ tí ó kàn
+There are no resources in this lesson,Kòsí àwọn ohun àmúlò ní ìgbẹ̀kọ́ yìí
+Next in lesson,Ẹ̀kọ́ tí ó kàn
+Sign in or create an account to save points you earn,Forúkọsílẹ̀wọlé tàbí ṣẹ̀dá àkáǹtì láti ṣàfipamọ́ ààmì ayò tí o gbà
+Search by typing in the box above,Ṣàwárí nípa títẹ̀wé sínú àpótí tó wà lókè yìí
+Update your profile,Ṣe àfikún tàbí àtúnṣe sí ohun tí o ti sọ nípa rẹ
+Some information is missing from your profile. Would you like to update it?,Kò sí àwọn ìwífún kan nínú ohun tí o ti sọ nípa rẹ. Ǹ jẹ́ ó wù ọ́ kí o ṣe àfikún sí?
+None of the above' may not be selected when other answers are selected.,Kò sí ọ̀kan lára àwọn ti òkè' ni a lè yàn nígbà tí a ti yan àwọn ìdáhùn mìíràn.
+**Your answer should be**,**Ìdáhùn rẹ gbọ́dọ̀ jẹ́**
+Beginning of reading passage footnotes.,Ìbẹ̀rẹ̀ kíka ọ̀rọ̀-abẹ́ àyọkà.
+Check your significant figures.,Ṣàyẹ̀wò àwọn ojúlówó òǹkaye rẹ.
+Check your units.,Ṣàyẹ̀wò àwọn ìpín rẹ.
+Choose 1 answer:,Yan ìdáhùn 1:
+Choose all answers that apply:,Yan gbogbo àwọn ìdáhùn tí ó tọ́:
+Click to add points,Ṣíratẹ̀ láti ní àfikún ojú ààmì ayò
+Down arrow,Àmì ọfà ìsàlẹ̀
+Get another hint,Gba atọ́ka mìíràn
+Greater than or equal to sign,Àmì ìjùlọ tàbí ọgba
+I couldn't understand those units.,Àwọn ìpín yẹn kò yémi.
+Keep trying,Túbọ̀ gbìyànjú síi
+Left arrow,Àmì ọfà òsì
+Less than or equal to sign,Àmì ìdínkù tàbí ọgba
+Logarithm with base 10,Lọ́gírídimù onípilẹ̀ 10
+Logarithm with custom base,Lọ́gírídimù alákànṣe ìpilẹ̀
+Please choose the correct number of answers.,Jọ̀wọ́ yan iye àwọn òǹkà ìdáhùn tí ó tọ́.
+Radical with custom root,Tegbò-tigàgá pẹ̀lú àkànṣe ìpilẹ̀ṣẹ̀
+Right arrow,Àmì ọfà ọ̀tún
+Show the last step,Fi ìgbésẹ̀ t'ó kẹ́yìn hàn
+Show the next step,Fi ìgbésẹ̀ t'ó kàn hàn
+"Sorry, I don't understand that!","Má bínú, ìyẹn kò yé mi!"
+That answer is numerically incorrect.,Ìdáhùn yẹn kò tọ̀nà níti òǹkà.
+"a *proper* fraction, like $1/2$ or $6/10$","ìdá òǹkà *tí kò tó ọ̀kan*, bíi $1/2$ tàbí $6/10$"
+"a *simplified improper* fraction, like $7/4$","ìdá òǹkà *tó jẹ́ tàbí tó ju ọ̀kan lọ, tí a ti mú rọrùn*, bíi $7/4$"
+"a *simplified proper* fraction, like $3/5$","ìdá òǹkà *tí kò tó ọ̀kan, tí a ti mú rọrùn*, bíi $3/5$"
+"a mixed number, like $1\\ 3/4$",àdàlù òǹkà bíi $1\\ 3/4$
+"an *exact* decimal, like $0.75$","òǹkà onímẹ́wàámẹ́wàá *gangan*, bíi $0.75$"
+"an *improper* fraction, like $10/7$ or $14/8$","ìdá òǹkà *t'ó jẹ́ tàbí tó ju ọ̀kan lọ*, bíi $10/7$ or $14/8$"
+"an integer, like $6$","òǹkà kan, bíi $6$"
+"If you use a hint, this question will not be added to your progress","Tí o bá lo olobó, ìbéèrè yìí kò ní di àfikún sí ìtẹ́síwájú rẹ"
+The scratchpad is not available,Kò sí ìwé pélébé fún kíkọ nǹkan sí
+Go forward 10 seconds,Lọ iwájú bíi ìṣẹjú àáyá 10
+A network error caused the media download to fail part-way,Àṣìṣe ìṣàsopọ̀ mú kí ìgbàsílẹ̀ ohun àmúlò ìgbóhùnàtàwòránjáde kùnà
+Go back 10 seconds,Padà ní bíi ìṣẹjú àáyá 10
+No compatible source was found for this media,Kò sí orísun tí ó báramu fún ohun àmúlò ìgbóhùnàtàwòránjáde yìí
+Class activity,Iṣẹ́ ṣíṣe yàrá ìkẹ́kọ̀ọ́
+No activity in your class,Kò sí ohun àmúṣe kankan ni kílààsì re
+Learner asked for a hint,Akẹ́kọ̀ọ́ béèrè fún olobó
+Calculated only from quizzes that were completed,Ìṣèṣirò láti ara àwọn ìbéèrè tí ìdáhùn rẹ̀ parí nìkan
+View learner progress and class performance,Ṣàyẹ̀wò ìtẹ̀síwájú akẹ́kọ̀ọ́ àti ìṣesí yàrá ìkẹ́kọ̀ọ́
+Please consult your Kolibri administrator to be assigned to a class,"Jọ̀wọ́, kàn sí alábòójútó Kolibri kó yàn yàrá ìkẹ́kọ̀ọ́ fún ọ"
+Create a class and enroll learners,"Ṣètò yàrá ìkẹ́kọ̀ọ́ kan, k'ó o sì gba àwọn akẹ́kọ̀ọ́ wọlé"
+You do not have any quizzes,O kò ní ìdánwò kúkurú kankan
+Active quizzes,Ìdánwò kúkurú t'ó ń ṣiṣẹ́
+No description,Kò sí àpèjúwe
+Difficult questions,Àwọn ìbéèrè t'ó ta kókó
+Inactive quizzes,Ìdánwò kúkurú tí kò ṣiṣẹ́
+Last activity,Ohun àmúṣe t'ó kẹ́yìn
+Lesson is not visible to learners,Àwọn akẹ́kọ̀ọ́ kò le rí ẹ̀kọ́ kà
+Lesson is visible to learners,Àwọn akẹ́kọ̀ọ́ le rí ẹ̀kọ́ kà
+No resources in this lesson,Kò sí àwọn ohun àmúlò ìrànlọ́wọ́ nínú ẹ̀kọ́ yìí
+Print report,Tẹ̀ ìròyìn jáde
+There was a problem ending the quiz. The quiz was not ended.,Ìṣòro kan wà ní píparí ìdánwò kúkurú náà. Ìdánwò kúkurú náà kò dópin.
+There was a problem starting the quiz. The quiz was not started.,Ìṣòro kan wà ní bíbẹ̀rẹ̀ ìdánwò kúkurú náà. Ìdánwò kúkurú náà kò bẹ̀rẹ̀.
+Number of questions,Iye àwọn ìbéèrè
+Create new group,Dá ẹgbẹ́ tuntun sílẹ̀
+Move this resource one position down in this lesson,Gbé ohun àmúlò yìí lọ sí ipò kan sísàlẹ̀ nínú ẹ̀kọ́ yìí
+Move this resource one position up in this lesson,Gbé ohun àmúlò yìí lọ sí ipò kan sókè nínú ẹ̀kọ́ yìí
+No users match,Kò sí àwọn olùṣàmúlò tí ó báramu
+No learners in this group,Kò sí akẹ́kọ̀ọ́ nínú ẹgbẹ́ yìí
+You do not have any groups,O kò ní àwọn ẹgbẹ́ kankan
+Individual learners,Olúkúlùkù àwọn akẹ́kọ̀ọ́
+Only showing learners that are enrolled in this class,Ń ṣàfihàn àwọn akẹ́kọ̀ọ́ tí ó forúkọsílẹ̀ ní yàrá ìkẹ́kọ̀ọ́ yìí nìkan
+Select individual learners,Yan olúkúlùkù àwọn akẹ́kọ̀ọ́
+Edit lesson details,Ṣàtúnṣe àwọn ẹ̀kúnrẹ́rẹ́ àlàyé ẹ̀kọ́
+All learner progress on this quiz will be lost.,Gbogbo ibi tí akẹ́kọ̀ọ́ kọ̀ọ̀kan ṣiṣẹ́ dé lórí ìdánwò kúkurú yìí yóò sọ nù.
+Copy lesson to,Ṣe àdàkọ ẹ̀kọ́ sí
+Delete lesson,Pa ẹ̀kọ́ rẹ́
+All classes,Gbogbo àwọn yàrá ìkẹ́kọ̀ọ́
+"Create and manage your lessons, quizzes, and groups","Ṣẹ̀dá àti àkóso yàrá ìkẹ́kọ̀ọ́ rẹ, ìdánwò kúkúrú àti ẹgbẹ́ "
+Plan your class,Ṣe èto yàrá ìkẹ́kọ̀ọ́ rẹ
+Edit quiz details,Ṣàtúnṣe àwọn ẹ̀kúnrẹ́rẹ́ ìdánwò kúkúrú
+Copy quiz,Ṣe àdàkọ ìdánwò kúkúrú
+View reports for your learners and class materials,Ṣe àyẹ̀wò ìjábọ̀ fun awon akẹ́kọ̀ọ́ àti àwon ìtẹ̀jáde yàrá ìkẹ́kọ̀ọ́ rẹ
+All learners,Gbogbo àwọn akẹ́kọ̀ọ́
+All questions answered,Gbogbo ìbéèrè gba ìdáhùn
+The network address can be an IP and port like '192.168.0.100:8080' or a URL like 'example.com':,Ojúlé ìsopọ̀ le jẹ́ IP àti ojú ìkànpọ̀ bí '192.168.0.100:8080' tàbí URL bí 'example.com':
+Could not connect to this network address,Kò le ṣàsopọ̀ mọ́ orí ojúlé ìṣàsopọ̀ yìí
+Choose a name for this address so you can remember it later:,Yan orúkọ fún ojúlé yìí kí o ba rántí rẹ̀ bí ó bá yá:
+e.g. House network,bí àpẹẹrẹ ìsopọ̀ inú ilé
+Trying to connect to server…,Ó ń gbìyànjú láti wọlé sorí ìsopọ̀ì…
+Import with token,Ṣàkówọlé pẹ̀lú àmì
+Available Channels on Kolibri Studio,Ìkànnì tí ó wà lárọ̀ọ́wọ́tó lórí Ilé-ìṣiṣẹ́ Kolibiri
+No channels are available on this device,Kò sí ìkànnì tó wà lárọ̀ọ́wọ́tó lórí èrọ yìí
+Not enough space available on your device. Free up disk space or select fewer resources,Ayè t'ó wà lórí èrọ yìí kò pọ̀. Yọ̀nda àyè tàbí kí o yan ohun àmúlò níwọ̀nba
+There was a problem loading this page…,Ìṣòro wáyé nípa ṣíṣàfipámọ́ ojú ìwé yíì…
+On your device,Lórí ẹ̀rọ rẹ
+The device with this ID does not exist,Kò sí ohun èlò tí ó ní ìdánimọ̀ yìí
+Are you sure you want to delete these channels from your device?,Ṣé ó dá ọ lójú pé o fẹ́ pa ìkànnì wọ̀nyí rẹ́ lórí ẹ̀rọ rẹ?
+Some copies of these resources may be in other locations on your device,Ẹ̀dà àwọn ohun àmúlò wọ̀nyí lè wà ní ibòmíràn lórí ẹ̀rọ rẹ
+Also delete any copies found in other locations and channels,Bákan náà ni kí o pa àwọn ẹ̀dà tí ó wà ní ibòmíràn àti lórí ìkànnì mìíràn rẹ́
+Delete resources,Pa àwọn ohun àmúlò wọ̀nyí rẹ́
+Manage Device Channels,Ṣàkóso àwọn ìkànnì orí ẹ̀rọ
+Edit channel order,Ṣàtúnṣe ìtòlẹ́sẹẹsẹ ìkànnì
+No channels installed,Kò sí ìṣàgbékalẹ̀ àwọn ìkànnì 
+There was a problem reordering the channels,Ìṣòro kan wáyé nípa àtúntò àwọn ìkànnì náà
+There was a problem removing this address,Ìṣòro kan wáyé nígbà àtiyọ̀ ojúlé yìí kúrò
+There was a problem getting the available addresses,Ìṣòro kan wáyé nígbà àgbàjde ojúlé t'ó wà ní àrọ́wọ́tó 
+Select network address,Yan ojúlé ìsopọ̀
+Add new address,Ṣe àfikún ojúlé titun
+There are no addresses yet,Kòì tíì sí ojúlé kankan
+Refresh addresses,Tún ojúlé sọdọ̀tun
+Successfully added address,Ìṣeyọrí àfikún ojúlé 
+Successfully removed address,Ìṣeyọrí iyọkúrò ojúlé 
+Attempt to delete channel failed. Please try again.,Ìgbìyànjú láti pa ìkànnì rẹ́ kùnà. Jọ̀wọ́ tún gbìyànjú lẹ́ẹ̀kansi.
+Generating channel listing. This could take a few minutes,Ń ṣàgbékalẹ̀ àtòjọ ìkanni. Èyí lè gba ìṣẹjú díẹ̀
+"Finished! Click ""Close"" button to see changes.",Ti parí! íira tẹ àtẹ̀ìpàṣẹ ''Tì'' láti rí àyípadà.
+Task has finished,Iṣẹ́ ti parí
+All resources on this device,Gbogbo àwọn ohun àmúlò lórí ẹ̀rọ yìí
+Already on your device,Ti wà lórí ẹ̀rọ rẹ
+Some resources selected,Ti yan ohun àmúlò
+Loading user permissions…,Ìkórajọ ìyọ̀nda aṣàmúlò…
+There was a problem saving these changes.,Ìṣòro kan wáyé ní ṣíṣàfipámọ́ àyípadà wọ̀nyí.
+Changes saved!,Ti ṣe ìfipamọ́ tán!
+Welcome to Kolibri!,Káàbọ̀ sí Kolibri!
+"Username only can contain characters, numbers and underscores","Orúkọ òǹṣàmúlò lè ní àwọn ẹyọ ọ̀rọ̀, òǹkaye àti ìlà abẹ́ ọ̀rọ̀"
+Unsupported browser,Aṣàwáríkiri tí kò tìlẹ́yìn
+"Sorry, your browser version is not supported.","Má bínú, ẹ̀yà aṣàwáríkiri rẹ kò lè ṣiṣẹ́."
+You can also try updating your current browser.,O tún lè gbìyànjú láti ṣàtúntò aṣàwáríkiri tuntun rẹ.
+Request for Permission,Béèrè fún Àyè
+Exit Fullscreen,Jáde ní Ẹ̀kúnjú-ìwòjú-ẹ̀rọ
+We care about your experience on Kolibri and are working hard to fix this issue,A bìkítà nipa ìrírí rẹ lori Kolibri a si n ṣe iṣẹ́ takuntakun láti yanjú gbogbo ìṣòro tó wà nilé yìí
+Help us by reporting this error,Ràn wá lọ́wọ́ nípa fífi ìṣòro yìí tó wa létí
+Try refreshing this page or going back to the home page,Gbìyànjú láti ṣe ìsọdọ̀tun ojú ewé yìí tàbí kí o padà sí ojú-ewé ilé
+You must be signed in as an admin to view this page,O gbọdọ̀ wọlé bíi alábòójútó láti wo ojú-ewé yìí
+You must be signed in as an admin or coach to view this page,O gbọdọ̀ wọlé bíi alábòójútó tàbí akọ́ni láti wo ojú-ewé yìí
+Maximum 125 characters,Ọmọ-ọ̀rọ̀ 125 ni èyítí ó pọ̀ jù
+Classes to assign the user to as a coach:,Ọ̀wọ́ tí òǹṣàmúlò yóò wà gẹ́gẹ́ bí akọ́ni:
+Valid only for Coach and Admin user types,Tọ́ fún irúfẹ́ àwọn olùṣàmúlò Akọ́ni àti Alábòójútó
+"List of class names, separated by commas","Ìtòlẹ́sẹẹsẹ àwọn orúkọ ọ̀wọ́, tí àmì ìdánudúró pín-níyà"
+"If an existing class does not match by name, it will be created","Bí ọ̀wọ́ tí ó wà tẹ́lẹ̀ kò bá bá orúkọ mu, yóò di dídá"
+Classes to enroll the user in as a learner:,Àwọn ọ̀wọ́ ti olùṣàmúlò yóò fi orúkọ sílẹ̀ sí gẹ́gẹ́ bí i akẹ́kọ̀ọ́:
+Can be any type of user,Lè jẹ́ èyíkéyìí irúfẹ́ olùṣàmúlò
+"Maximum 125 characters. To leave unchanged, use an asterisk:","Ọmọ-ọ̀rọ̀ 125 ni èyítí ó pọ̀ jù. Láti máa ṣe àyípadà, lo àmì ìràwọ̀:"
+Possible values:,Àwọn ohun tí ó ṣe é ṣe:
+"A four-digit year, greater than 1900","Ọdún ẹlẹ́yọ-òǹkà mẹ́rin, tí ó ju 1900 lọ"
+Allow learners to edit their full name,Fàyègba àwọn akẹ́kọ̀ọ́ láti ṣàtúnṣe orúkọ wọn ní kíkún
+Allow learners to change their password when signed in,Fàyègba àwọn akẹ́kọ̀ọ́ láti ṣàyípadà ọ̀rọ̀-aṣínà wọn nígbà tí wọ́n forúkọsílẹ̀wọlé
+Allow learners to edit their username,Fàyègba àwọn akẹ́kọ̀ọ́ láti ṣàtúnṣe orúkọ-òǹṣàmúlò wọn
+Import users from spreadsheet,Kó àwọn olùṣàmúlò wọlé láti inú àtẹ-iṣẹ́
+"CAUTION: importing from CSV will make many changes to your users and classes, and these changes cannot be easily reverted.","ÌṢỌ́RA : kíkówọlé láti inú CSV yóò mú ọ̀pọ̀lọpọ̀ àtúnṣe bá àwọn olùṣàmúlò àti ọ̀wọ́ ẹ̀kọ́ọ̀ rẹ, àwọn àyípadà wọ̀nyí kò ṣe é dá padà nírọ̀rùn."
+create new users,ṣẹ̀dá àwọn olùṣàmúlò tuntun
+update existing users (for users with matching usernames),ṣàfikún àwọn olùṣàmúlò tí ó wà tẹ́lẹ̀ (fún àwọn òǹṣàmúlò tí orúkọ-òǹṣàmúlò bára mu)
+"Optionally, you can also delete users and classes that are not referenced in the spreadsheet.","Láṣàyàn, o le pa àwọn òǹṣàmúlò àti ọ̀wọ́ ẹ̀kọ́ tí kò ní ìtọ́kasí sí níní àtẹ-iṣẹ́ náà."
+"To proceed, select a CSV file:","Láti tẹ̀síwájú, yan àkápọ̀-iṣẹ́  CSV kan: "
+The following changes were made:,Àwọn àyípadà wọ̀nyí ni ó di ṣíṣe:
+These rows have errors and will be skipped if you continue:,Àwọn ìlà wọ̀nyí ní àwọn ìṣìṣe yóò sì di fífòdá bí o bá bá ǹṣó:
+These rows were skipped:,A fo àwọn ìlà wọ̀nyí dá:
+Explore without account,Ṣàwárí láìní ìṣàmúlò
+Kolibri is an e-learning platform. You can also use your Kolibri account to log in to some third-party applications.,Kolibri jẹ́ gbàgede ìkẹ́kọ̀ọ́ orí ẹ̀rọ-ayélujára. O tún lè fi ìṣàmúlò Kolibri rẹ wọlé sí àwọn ohun-èlò ìṣiṣẹ́ mìíràn.
+Powered by Kolibri,Kolibri ló ṣe onígbọ̀wọ́
+Access to Kolibri has been restricted for external devices,Ìráàyè sí Kolibri ti di ìhámọ́ fún àwọn ẹ̀rọ ti-òde
+"To change this, sign in as a super admin and update the Device network access settings","Láti pa èyí dà, forúkọsílẹ̀ wọlé gẹ́gẹ́ bí alábòójútó àràmàndà kí ó ṣàtúnṣe ààtò ìṣàsopọ̀ Ẹ̀rọ náà"
+Are you a new user?,Ǹjẹ́ olùṣàmúlò tuntun ni ọ́?
+Sign in if you have an existing account,Forúkọsílẹ̀-wọlé tí o bá ti ní aṣàmúlò tẹ́lẹ̀
+Ask your administrator to create an account for these facilities:,Sọ fún alábòójútó rẹ kí ó ṣẹ̀dá aṣàmúlò fún àwọn ohun-èlò wọ̀nyí:
+Select the facility that you want to associate your new account with:,Yan ohun-èlò tí o fẹ́ kí ó jẹ́ alábàáṣepọ̀ pẹ̀lú aṣàmúlò rẹ tuntun:
+Select the facility that has your account,Yan ohun-èlò tí ó ní aṣàmúlò rẹ
+"Incorrect username, password, or facility","Orúkọ-òǹṣàmúlò, ọ̀rọ̀-ìfiwọlé, tàbí ohun-èlò kò tọ́"
+Beginning of reading passage footnotes.,Ìbẹ̀rẹ̀ kíka ọ̀rọ̀-abẹ́ àyọkà
+Choose 1 answer:,Yan ìdáhùn 1:
+Sign in or create an account to begin earning points,Forúkọsílẹ̀ wọlé tàbí ṣẹ̀dá aṣàmúlò láti máa gba ojú-àmì
+Giving this device a meaningful name can help you and others you connect with to recognize it,Fífún ẹ̀rọ yìí ní orúkọ tí ó nítumọ̀ lè ṣèrànlọ́wọ́ fún ìwọ àti àwọn tí o bá bá ṣe ìṣàsopọ̀ láti dá a mọ̀
+What kind of learning environment is your facility?,Irú àyíká ìkẹ́kọ̀ọ́ wo ni ohun-èlò rẹ?
+"For schools, educational programs, organizations, or other group learning settings that will share the use of Kolibri","Fún àwọn iléèwé, ètò ẹ̀kọ́, iléeṣẹ́, tàbí àwọn ààtò ìkẹ́kọ̀ọ́ lẹ́gbẹ́lẹ́gbẹ́ mìíràn tí yóò jọ ṣe àjọpín Kolibri"
+Advanced setup,Ìṣètò tó rékọjá-àlà
+How are you using Kolibri?,Báwo ni o ṣe ń lo Kolibri?
+"For homeschooling, supplementary individual learning, and other self-directed use","Fún ètò ẹ̀kọ́-ilé, àfikún ìkẹ́kọ̀ọ́ àdára-ẹni-kọ́, àti àwọn ìṣàmúlò fún ara ẹni mìíràn"
+Configure facility,Ṣàtúntò sí ohun-èlò
+Would you like to configure a facility?,Ǹjẹ́ ó hùn ọ́ kí o ṣàtúntò ohun-èlò?
+How do you plan to use Kolibri?,Báwo ni o ṣe fẹ́ lo Kolibri?
+"Username only can contain characters, numbers and underscores","Orúkọ aṣàmúlò nikan ni o le ni àwọn ẹyọ ọ̀rọ̀, nọmba ati àwọn ìlà abẹ́"
+content session logs,akoonu sáà àwọn àkọsílẹ̀ iṣẹ́
+content summary logs,àkóónù ìṣoníṣókí àwọn àkọsílẹ̀ iṣẹ́
+Both individual learners and groups,Àwọn akẹ̀kọ̀ọ́ paapọ̀ lọ́kọ̀ọ̀kan àti àwọn ẹgbẹ́
+Total questions,Àpapọ̀ àwọn ìbéèrè
+"Consult your administrator for guidance, or use an account with device permissions to manage content channels.","Kànsí alábòójútó fún ìtọ́ni, tàbí lo àkọọ́lẹ̀ pẹ̀lú àwọn àṣẹ ohun elò láti lo àwọn ìkanni àkoonú."
+Resources unavailable,Kòsí àwọn ohun èlò
+Some resources are missing or not supported,Kòsí àwọn ohun èlò kan tàbí kò látìlẹyìn
+Removing facility,Ṣàyọkúrò ohun èlò
+Device permissions,Àwọn ìgbàláàyè ẹ̀rọ
+There is already a facility with this name on this device,Ohun-èlò tí ó ní orúkọ yìí ti wà lórí ẹ̀rọ yìí
+No users exist,Kò sí àwọn olùṣàmúlò
+This field is required,Àfo yìí pọn dandan
+Select all on page,Yan ohun gbogbo ní ojú ewé
+Usage and privacy,Ìlò ati ìpamọ́ àṣìírí
+"Username can only contain letters, numbers, and underscores","Lẹ́tà, nọ́ḿbà, àti ìlà abẹ́ nìkan ni orúkọ aṣàmúlò le ní"
+Enter admin credentials,Ṣàtẹ̀wọlé àwọn ohun ẹ̀rí alábòójútó
+Most recent sync failed,Ìmúdọ́gba ikẹ́yìn yii kùnà
+Class created,Ti ṣẹ̀dá yàrá ìkẹ́kọ̀ọ́
+Class deleted,Ti pa yàrá ìkẹ́kọ̀ọ́ rẹ́
+Group created,Ti ṣẹ̀dá ẹgbẹ́
+Lesson copied,Ti ṣẹ̀dà ẹ̀kọ́
+Lesson created,Ti ṣàgbékalẹ̀ ẹ̀kọ́
+Lesson deleted,Ti pa ẹ̀kọ́ rẹ́
+Password reset,Àtúntò ọ̀rọ̀ aṣìnà
+Quiz copied,Ti ṣẹ̀dà ìdánwò kúkúrú
+Resource order saved,Ìtò èròjà iṣẹ́ ti ṣàfipamọ́
+Did you forget to sign in?,Ṣé o gbàgbé láti forúkọsílẹ̀ wọlé?
+You must be signed in as a learner to view this page,O gbọdọ̀ forúkọsílẹ̀-wọlé bíi akẹ́kọ̀ọ́ láti wo ojú-ewé yíì
+You must be signed in to view this page,O gbọdọ̀ ti forúkọsílẹ̀-wọlé láti wo ojú-ewé yíì
+No coaches exist,Kò sí olùkọ́ kankan
+No learners exist,Kò sí akẹ́kọ̀ọ́ kankan
+The network address can be an IP and port like '192.168.0.100:8080' or a URL like 'example.com':,Ojúlé ìṣàsopọ̀ le jẹ́ IP àti ihòìsopọ̀araẹ̀rọ bí i '192.168.0.100:8080' tàbí URL bí i 'example.com':
+The first thing you should do is import some channels to this device.,Ohun àkọ́kọ́ tí ó yẹ kí o ṣe ni pé kí o kó àwọn ìkànnì sórí ẹ̀rọ yìí.
+The first thing you should do is import some resources from the Channels tab.,Ohun àkọ́kọ́ tí ó yẹ kí o ṣe ni pé kí o kó àwọn ohun àmúlò ìrànlọ́wọ́ wọlé láti ìpín ojú ewé Ìkànnì.
